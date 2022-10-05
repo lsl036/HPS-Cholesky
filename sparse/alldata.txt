@@ -1,1046 +1,1046 @@
-/home/public/DATA_TEST/msc01050/msc01050.mtx	0
-/home/public/DATA_TEST/bcsstk02/bcsstk02.mtx	1
-/home/public/DATA_TEST/bcsstk21/bcsstk21.mtx	2
-/home/public/DATA_TEST/bcsstk27/bcsstk27.mtx	3
-/home/public/DATA_TEST/sts4098/sts4098.mtx	4
-/home/public/DATA_TEST/ex9/ex9.mtx	5
-/home/public/DATA_TEST/nos5/nos5.mtx	6
-/home/public/DATA_TEST/aft01/aft01.mtx	7
-/home/public/DATA_TEST/fv1/fv1.mtx	8
-/home/public/DATA_TEST/fv2/fv2.mtx	9
-/home/public/DATA_TEST/fv3/fv3.mtx	10
-/home/public/DATA_TEST/msc04515/msc04515.mtx	11
-/home/public/DATA_TEST/bcsstk09/bcsstk09.mtx	12
-/home/public/DATA_TEST/bundle1/bundle1.mtx	13
-/home/public/DATA_TEST/bcsstk14/bcsstk14.mtx	14
-/home/public/DATA_TEST/nasa2146/nasa2146.mtx	15
-/home/public/DATA_TEST/Dubcova1/Dubcova1.mtx	16
-/home/public/DATA_TEST/bodyy5/bodyy5.mtx	17
-/home/public/DATA_TEST/bodyy4/bodyy4.mtx	18
-/home/public/DATA_TEST/crystm01/crystm01.mtx	19
-/home/public/DATA_TEST/gyro_k/gyro_k.mtx	20
-/home/public/DATA_TEST/gyro/gyro.mtx	21
-/home/public/DATA_TEST/bodyy6/bodyy6.mtx	22
-/home/public/DATA_TEST/msc01440/msc01440.mtx	23
-/home/public/DATA_TEST/bcsstk28/bcsstk28.mtx	24
-/home/public/DATA_TEST/jnlbrng1/jnlbrng1.mtx	25
-/home/public/DATA_TEST/thermal1/thermal1.mtx	26
-/home/public/DATA_TEST/torsion1/torsion1.mtx	27
-/home/public/DATA_TEST/obstclae/obstclae.mtx	28
-/home/public/DATA_TEST/bcsstk24/bcsstk24.mtx	29
-/home/public/DATA_TEST/s3rmt3m3/s3rmt3m3.mtx	30
-/home/public/DATA_TEST/thermomech_TK/thermomech_TK.mtx	31
-/home/public/DATA_TEST/thermomech_dM/thermomech_dM.mtx	32
-/home/public/DATA_TEST/gridgena/gridgena.mtx	33
-/home/public/DATA_TEST/bcsstk17/bcsstk17.mtx	34
-/home/public/DATA_TEST/Dubcova2/Dubcova2.mtx	35
-/home/public/DATA_TEST/bcsstk38/bcsstk38.mtx	36
-/home/public/DATA_TEST/s1rmq4m1/s1rmq4m1.mtx	37
-/home/public/DATA_TEST/s3rmq4m1/s3rmq4m1.mtx	38
-/home/public/DATA_TEST/s2rmq4m1/s2rmq4m1.mtx	39
-/home/public/DATA_TEST/Dubcova3/Dubcova3.mtx	40
-/home/public/DATA_TEST/bcsstk18/bcsstk18.mtx	41
-/home/public/DATA_TEST/msc00726/msc00726.mtx	42
-/home/public/DATA_TEST/msc23052/msc23052.mtx	43
-/home/public/DATA_TEST/finan512/finan512.mtx	44
-/home/public/DATA_TEST/bcsstk36/bcsstk36.mtx	45
-/home/public/DATA_TEST/bcsstk16/bcsstk16.mtx	46
-/home/public/DATA_TEST/bcsstk15/bcsstk15.mtx	47
-/home/public/DATA_TEST/shallow_water2/shallow_water2.mtx	48
-/home/public/DATA_TEST/shallow_water1/shallow_water1.mtx	49
-/home/public/DATA_TEST/vanbody/vanbody.mtx	50
-/home/public/DATA_TEST/msc10848/msc10848.mtx	51
-/home/public/DATA_TEST/bcsstk23/bcsstk23.mtx	52
-/home/public/DATA_TEST/hood/hood.mtx	53
-/home/public/DATA_TEST/olafu/olafu.mtx	54
-/home/public/DATA_TEST/x104/x104.mtx	55
-/home/public/DATA_TEST/msdoor/msdoor.mtx	56
-/home/public/DATA_TEST/thermal2/thermal2.mtx	57
-/home/public/DATA_TEST/ecology2/ecology2.mtx	58
-/home/public/DATA_TEST/parabolic_fem/parabolic_fem.mtx	59
-/home/public/DATA_TEST/G2_circuit/G2_circuit.mtx	60
-/home/public/DATA_TEST/s3dkt3m2/s3dkt3m2.mtx	61
-/home/public/DATA_TEST/s3dkq4m2/s3dkq4m2.mtx	62
-/home/public/DATA_TEST/raefsky4/raefsky4.mtx	63
-/home/public/DATA_TEST/af_shell4/af_shell4.mtx	64
-/home/public/DATA_TEST/af_shell3/af_shell3.mtx	65
-/home/public/DATA_TEST/af_shell8/af_shell8.mtx	66
-/home/public/DATA_TEST/af_shell7/af_shell7.mtx	67
-/home/public/DATA_TEST/apache1/apache1.mtx	68
-/home/public/DATA_TEST/ship_001/ship_001.mtx	69
-/home/public/DATA_TEST/cant/cant.mtx	70
-/home/public/DATA_TEST/cvxbqp1/cvxbqp1.mtx	71
-/home/public/DATA_TEST/af_1_k101/af_1_k101.mtx	72
-/home/public/DATA_TEST/af_2_k101/af_2_k101.mtx	73
-/home/public/DATA_TEST/smt/smt.mtx	74
-/home/public/DATA_TEST/pdb1HYS/pdb1HYS.mtx	75
-/home/public/DATA_TEST/inline_1/inline_1.mtx	76
-/home/public/DATA_TEST/qa8fm/qa8fm.mtx	77
-/home/public/DATA_TEST/G3_circuit/G3_circuit.mtx	78
-/home/public/DATA_TEST/apache2/apache2.mtx	79
-/home/public/DATA_TEST/cfd2/cfd2.mtx	80
-/home/public/DATA_TEST/ship_003/ship_003.mtx	81
-/home/public/DATA_TEST/shipsec8/shipsec8.mtx	82
-/home/public/DATA_TEST/nd3k/nd3k.mtx	83
-/home/public/DATA_TEST/boneS01/boneS01.mtx	84
-/home/public/DATA_TEST/offshore/offshore.mtx	85
-/home/public/DATA_TEST/2cubes_sphere/2cubes_sphere.mtx	86
-/home/public/DATA_TEST/nd6k/nd6k.mtx	87
-/home/public/DATA_TEST/consph/consph.mtx	88
-/home/public/DATA_TEST/nd12k/nd12k.mtx	89
-/home/public/DATA_TEST/nd24k/nd24k.mtx	90
-/home/public/DATA_TEST/Muu/Muu.mtx	91
-/home/public/DATA_TEST/plbuckle/plbuckle.mtx	92
-/home/public/DATA_TEST/ex3/ex3.mtx	93
-/home/public/DATA_TEST/nos3/nos3.mtx	94
-/home/public/DATA_TEST/bcsstk11/bcsstk11.mtx	95
-/home/public/DATA_TEST/bcsstk12/bcsstk12.mtx	96
-/home/public/DATA_TEST/plat1919/plat1919.mtx	97
-/home/public/DATA_TEST/ex15/ex15.mtx	98
-/home/public/DATA_TEST/nos7/nos7.mtx	99
-/home/public/DATA_TEST/bcsstk08/bcsstk08.mtx	100
-/home/public/DATA_TEST/nasa1824/nasa1824.mtx	101
-/home/public/DATA_TEST/t2dah_e/t2dah_e.mtx	102
-/home/public/DATA_TEST/Kuu/Kuu.mtx	103
-/home/public/DATA_TEST/bcsstk34/bcsstk34.mtx	104
-/home/public/DATA_TEST/minsurfo/minsurfo.mtx	105
-/home/public/DATA_TEST/wathen100/wathen100.mtx	106
-/home/public/DATA_TEST/thermomech_TC/thermomech_TC.mtx	107
-/home/public/DATA_TEST/wathen120/wathen120.mtx	108
-/home/public/DATA_TEST/s1rmt3m1/s1rmt3m1.mtx	109
-/home/public/DATA_TEST/s3rmt3m1/s3rmt3m1.mtx	110
-/home/public/DATA_TEST/s2rmt3m1/s2rmt3m1.mtx	111
-/home/public/DATA_TEST/bcsstk25/bcsstk25.mtx	112
-/home/public/DATA_TEST/bcsstk13/bcsstk13.mtx	113
-/home/public/DATA_TEST/Pres_Poisson/Pres_Poisson.mtx	114
-/home/public/DATA_TEST/cbuckle/cbuckle.mtx	115
-/home/public/DATA_TEST/crystm02/crystm02.mtx	116
-/home/public/DATA_TEST/crystm03/crystm03.mtx	117
-/home/public/DATA_TEST/nasasrb/nasasrb.mtx	118
-/home/public/DATA_TEST/oilpan/oilpan.mtx	119
-/home/public/DATA_TEST/BenElechi1/BenElechi1.mtx	120
-/home/public/DATA_TEST/tmt_sym/tmt_sym.mtx	121
-/home/public/DATA_TEST/ct20stif/ct20stif.mtx	122
-/home/public/DATA_TEST/m_t1/m_t1.mtx	123
-/home/public/DATA_TEST/pwtk/pwtk.mtx	124
-/home/public/DATA_TEST/af_4_k101/af_4_k101.mtx	125
-/home/public/DATA_TEST/af_3_k101/af_3_k101.mtx	126
-/home/public/DATA_TEST/af_5_k101/af_5_k101.mtx	127
-/home/public/DATA_TEST/af_0_k101/af_0_k101.mtx	128
-/home/public/DATA_TEST/shipsec1/shipsec1.mtx	129
-/home/public/DATA_TEST/cfd1/cfd1.mtx	130
-/home/public/DATA_TEST/shipsec5/shipsec5.mtx	131
-/home/public/DATA_TEST/thread/thread.mtx	132
-/home/public/GEN_CLEAN/mat_5000_0.005_0.4_1.mtx	133
-/home/public/GEN_CLEAN/mat_5000_0.005_0.4_2.mtx	134
-/home/public/GEN_CLEAN/mat_5000_0.005_0.8_2.mtx	135
-/home/public/GEN_CLEAN/mat_5000_0.001_0.8_1.mtx	136
-/home/public/GEN_CLEAN/mat_5000_0.001_0.8_2.mtx	137
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.4_1.mtx	138
-/home/public/GEN_CLEAN/mat_6000_0.005_0.8_2.mtx	139
-/home/public/GEN_CLEAN/mat_6000_0.001_0.4_2.mtx	140
-/home/public/GEN_CLEAN/mat_6000_0.001_0.8_1.mtx	141
-/home/public/GEN_CLEAN/mat_6000_0.001_0.8_2.mtx	142
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.4_1.mtx	143
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.4_2.mtx	144
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.8_2.mtx	145
-/home/public/GEN_CLEAN/mat_7000_0.005_0.4_2.mtx	146
-/home/public/GEN_CLEAN/mat_7000_0.005_0.8_1.mtx	147
-/home/public/GEN_CLEAN/mat_7000_0.005_0.8_2.mtx	148
-/home/public/GEN_CLEAN/mat_7000_0.001_0.4_2.mtx	149
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.4_2.mtx	150
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.8_1.mtx	151
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.8_2.mtx	152
-/home/public/GEN_CLEAN/mat_8000_0.005_0.4_1.mtx	153
-/home/public/GEN_CLEAN/mat_8000_0.005_0.4_2.mtx	154
-/home/public/GEN_CLEAN/mat_8000_0.005_0.8_1.mtx	155
-/home/public/GEN_CLEAN/mat_8000_0.005_0.8_2.mtx	156
-/home/public/GEN_CLEAN/mat_8000_0.001_0.4_2.mtx	157
-/home/public/GEN_CLEAN/mat_8000_0.001_0.8_2.mtx	158
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.4_2.mtx	159
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.8_2.mtx	160
-/home/public/GEN_CLEAN/mat_9000_0.005_0.4_1.mtx	161
-/home/public/GEN_CLEAN/mat_9000_0.005_0.4_2.mtx	162
-/home/public/GEN_CLEAN/mat_9000_0.005_0.8_1.mtx	163
-/home/public/GEN_CLEAN/mat_9000_0.001_0.4_1.mtx	164
-/home/public/GEN_CLEAN/mat_9000_0.001_0.4_2.mtx	165
-/home/public/GEN_CLEAN/mat_9000_0.001_0.8_2.mtx	166
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.8_1.mtx	167
-/home/public/GEN_CLEAN/mat_10000_0.005_0.4_1.mtx	168
-/home/public/GEN_CLEAN/mat_10000_0.005_0.4_2.mtx	169
-/home/public/GEN_CLEAN/mat_10000_0.005_0.8_2.mtx	170
-/home/public/GEN_CLEAN/mat_10000_0.001_0.4_1.mtx	171
-/home/public/GEN_CLEAN/mat_10000_0.001_0.4_2.mtx	172
-/home/public/GEN_CLEAN/mat_10000_0.001_0.8_1.mtx	173
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.4_1.mtx	174
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.4_2.mtx	175
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.8_1.mtx	176
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.8_2.mtx	177
-/home/public/GEN_CLEAN/mat_11000_0.005_0.4_1.mtx	178
-/home/public/GEN_CLEAN/mat_11000_0.005_0.4_2.mtx	179
-/home/public/GEN_CLEAN/mat_11000_0.005_0.8_2.mtx	180
-/home/public/GEN_CLEAN/mat_11000_0.001_0.4_1.mtx	181
-/home/public/GEN_CLEAN/mat_11000_0.001_0.8_1.mtx	182
-/home/public/GEN_CLEAN/mat_11000_0.001_0.8_2.mtx	183
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.8_2.mtx	184
-/home/public/GEN_CLEAN/mat_12000_0.005_0.4_1.mtx	185
-/home/public/GEN_CLEAN/mat_12000_0.005_0.4_2.mtx	186
-/home/public/GEN_CLEAN/mat_12000_0.005_0.8_1.mtx	187
-/home/public/GEN_CLEAN/mat_12000_0.005_0.8_2.mtx	188
-/home/public/GEN_CLEAN/mat_12000_0.001_0.4_1.mtx	189
-/home/public/GEN_CLEAN/mat_12000_0.001_0.4_2.mtx	190
-/home/public/GEN_CLEAN/mat_12000_0.001_0.8_1.mtx	191
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.4_1.mtx	192
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.8_2.mtx	193
-/home/public/GEN_CLEAN/mat_13000_0.005_0.8_1.mtx	194
-/home/public/GEN_CLEAN/mat_13000_0.005_0.8_2.mtx	195
-/home/public/GEN_CLEAN/mat_13000_0.001_0.4_1.mtx	196
-/home/public/GEN_CLEAN/mat_13000_0.001_0.8_1.mtx	197
-/home/public/GEN_CLEAN/mat_13000_0.001_0.8_2.mtx	198
-/home/public/GEN_CLEAN/mat_14000_0.005_0.4_1.mtx	199
-/home/public/GEN_CLEAN/mat_14000_0.005_0.4_2.mtx	200
-/home/public/GEN_CLEAN/mat_14000_0.005_0.8_2.mtx	201
-/home/public/GEN_CLEAN/mat_14000_0.001_0.4_2.mtx	202
-/home/public/GEN_CLEAN/mat_14000_0.001_0.8_1.mtx	203
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.4_1.mtx	204
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.4_2.mtx	205
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.8_1.mtx	206
-/home/public/GEN_CLEAN/mat_15000_0.005_0.8_1.mtx	207
-/home/public/GEN_CLEAN/mat_15000_0.005_0.8_2.mtx	208
-/home/public/GEN_CLEAN/mat_15000_0.001_0.4_1.mtx	209
-/home/public/GEN_CLEAN/mat_15000_0.001_0.8_1.mtx	210
-/home/public/GEN_CLEAN/mat_15000_0.001_0.8_2.mtx	211
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.4_1.mtx	212
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.4_2.mtx	213
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.8_1.mtx	214
-/home/public/GEN_CLEAN/mat_16000_0.005_0.4_2.mtx	215
-/home/public/GEN_CLEAN/mat_16000_0.005_0.8_1.mtx	216
-/home/public/GEN_CLEAN/mat_16000_0.005_0.8_2.mtx	217
-/home/public/GEN_CLEAN/mat_16000_0.001_0.4_1.mtx	218
-/home/public/GEN_CLEAN/mat_16000_0.001_0.8_1.mtx	219
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.4_1.mtx	220
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.4_2.mtx	221
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.8_2.mtx	222
-/home/public/GEN_CLEAN/mat_17000_0.005_0.8_1.mtx	223
-/home/public/GEN_CLEAN/mat_17000_0.001_0.4_1.mtx	224
-/home/public/GEN_CLEAN/mat_17000_0.001_0.4_2.mtx	225
-/home/public/GEN_CLEAN/mat_17000_0.001_0.8_1.mtx	226
-/home/public/GEN_CLEAN/mat_17000_0.001_0.8_2.mtx	227
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.4_1.mtx	228
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.4_2.mtx	229
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.8_1.mtx	230
-/home/public/GEN_CLEAN/mat_18000_0.005_0.4_1.mtx	231
-/home/public/GEN_CLEAN/mat_18000_0.005_0.8_1.mtx	232
-/home/public/GEN_CLEAN/mat_18000_0.001_0.4_1.mtx	233
-/home/public/GEN_CLEAN/mat_18000_0.001_0.4_2.mtx	234
-/home/public/GEN_CLEAN/mat_18000_0.001_0.8_1.mtx	235
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.8_1.mtx	236
-/home/public/GEN_CLEAN/mat_19000_0.005_0.4_1.mtx	237
-/home/public/GEN_CLEAN/mat_19000_0.005_0.8_1.mtx	238
-/home/public/GEN_CLEAN/mat_19000_0.001_0.4_1.mtx	239
-/home/public/GEN_CLEAN/mat_19000_0.001_0.4_2.mtx	240
-/home/public/GEN_CLEAN/mat_19000_0.001_0.8_1.mtx	241
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.4_1.mtx	242
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.4_2.mtx	243
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.8_1.mtx	244
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.8_2.mtx	245
-/home/public/GEN_CLEAN/mat_20000_0.001_0.8_1.mtx	246
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.4_1.mtx	247
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.8_2.mtx	248
-/home/public/GEN_CLEAN/mat_20000_0.0001_0.4_1.mtx	249
-/home/public/GEN_CLEAN/mat_25000_0.001_0.8_1.mtx	250
-/home/public/GEN_CLEAN/mat_25000_0.001_0.8_2.mtx	251
-/home/public/GEN_CLEAN/mat_25000_0.0005_0.4_2.mtx	252
-/home/public/GEN_CLEAN/mat_25000_0.0005_0.8_1.mtx	253
-/home/public/GEN_CLEAN/mat_25000_0.0001_0.4_2.mtx	254
-/home/public/GEN_CLEAN/mat_30000_0.001_0.8_1.mtx	255
-/home/public/GEN_CLEAN/mat_30000_0.001_0.8_2.mtx	256
-/home/public/GEN_CLEAN/mat_30000_0.0005_0.4_1.mtx	257
-/home/public/GEN_CLEAN/mat_30000_0.0005_0.8_1.mtx	258
-/home/public/GEN_CLEAN/mat_30000_0.0005_0.8_2.mtx	259
-/home/public/GEN_CLEAN/mat_30000_0.0001_0.8_1.mtx	260
-/home/public/GEN_CLEAN/mat_30000_0.0001_0.8_2.mtx	261
-/home/public/GEN_CLEAN/mat_35000_0.0005_0.4_1.mtx	262
-/home/public/GEN_CLEAN/mat_35000_0.0005_0.4_2.mtx	263
-/home/public/GEN_CLEAN/mat_35000_0.0005_0.8_2.mtx	264
-/home/public/GEN_CLEAN/mat_35000_0.0001_0.4_1.mtx	265
-/home/public/GEN_CLEAN/mat_35000_0.0001_0.8_2.mtx	266
-/home/public/GEN_CLEAN/mat_40000_0.001_0.8_1.mtx	267
-/home/public/GEN_CLEAN/mat_40000_0.001_0.8_2.mtx	268
-/home/public/GEN_CLEAN/mat_40000_0.0005_0.4_1.mtx	269
-/home/public/GEN_CLEAN/mat_40000_0.0005_0.8_1.mtx	270
-/home/public/GEN_CLEAN/mat_40000_0.0001_0.8_1.mtx	271
-/home/public/GEN_CLEAN/mat_40000_0.0001_0.8_2.mtx	272
-/home/public/GEN_CLEAN/mat_45000_0.001_0.4_1.mtx	273
-/home/public/GEN_CLEAN/mat_5000_0.005_0.6_1.mtx	274
-/home/public/GEN_CLEAN/mat_5000_0.005_0.6_2.mtx	275
-/home/public/GEN_CLEAN/mat_5000_0.001_0.6_1.mtx	276
-/home/public/GEN_CLEAN/mat_5000_0.001_0.6_2.mtx	277
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.6_1.mtx	278
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.6_2.mtx	279
-/home/public/GEN_CLEAN/mat_6000_0.005_0.6_1.mtx	280
-/home/public/GEN_CLEAN/mat_6000_0.005_0.6_2.mtx	281
-/home/public/GEN_CLEAN/mat_6000_0.001_0.6_2.mtx	282
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.6_1.mtx	283
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.6_2.mtx	284
-/home/public/GEN_CLEAN/mat_7000_0.005_0.6_1.mtx	285
-/home/public/GEN_CLEAN/mat_7000_0.005_0.6_2.mtx	286
-/home/public/GEN_CLEAN/mat_7000_0.001_0.6_1.mtx	287
-/home/public/GEN_CLEAN/mat_7000_0.001_0.6_2.mtx	288
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.6_2.mtx	289
-/home/public/GEN_CLEAN/mat_8000_0.005_0.6_1.mtx	290
-/home/public/GEN_CLEAN/mat_8000_0.005_0.6_2.mtx	291
-/home/public/GEN_CLEAN/mat_8000_0.001_0.6_1.mtx	292
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.6_2.mtx	293
-/home/public/GEN_CLEAN/mat_9000_0.005_0.6_1.mtx	294
-/home/public/GEN_CLEAN/mat_9000_0.005_0.6_2.mtx	295
-/home/public/GEN_CLEAN/mat_9000_0.001_0.6_1.mtx	296
-/home/public/GEN_CLEAN/mat_9000_0.001_0.6_2.mtx	297
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.6_2.mtx	298
-/home/public/GEN_CLEAN/mat_10000_0.005_0.6_2.mtx	299
-/home/public/GEN_CLEAN/mat_10000_0.001_0.6_1.mtx	300
-/home/public/GEN_CLEAN/mat_10000_0.001_0.6_2.mtx	301
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.6_2.mtx	302
-/home/public/GEN_CLEAN/mat_11000_0.005_0.6_1.mtx	303
-/home/public/GEN_CLEAN/mat_11000_0.005_0.6_2.mtx	304
-/home/public/GEN_CLEAN/mat_11000_0.001_0.6_2.mtx	305
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.6_1.mtx	306
-/home/public/GEN_CLEAN/mat_12000_0.005_0.6_1.mtx	307
-/home/public/GEN_CLEAN/mat_12000_0.001_0.6_1.mtx	308
-/home/public/GEN_CLEAN/mat_12000_0.001_0.6_2.mtx	309
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.6_1.mtx	310
-/home/public/GEN_CLEAN/mat_13000_0.005_0.6_1.mtx	311
-/home/public/GEN_CLEAN/mat_13000_0.005_0.6_2.mtx	312
-/home/public/GEN_CLEAN/mat_13000_0.001_0.6_1.mtx	313
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.6_2.mtx	314
-/home/public/GEN_CLEAN/mat_14000_0.005_0.6_1.mtx	315
-/home/public/GEN_CLEAN/mat_14000_0.005_0.6_2.mtx	316
-/home/public/GEN_CLEAN/mat_14000_0.001_0.6_1.mtx	317
-/home/public/GEN_CLEAN/mat_14000_0.001_0.6_2.mtx	318
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.6_1.mtx	319
-/home/public/GEN_CLEAN/mat_15000_0.005_0.6_2.mtx	320
-/home/public/GEN_CLEAN/mat_15000_0.001_0.6_1.mtx	321
-/home/public/GEN_CLEAN/mat_15000_0.001_0.6_2.mtx	322
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.6_1.mtx	323
-/home/public/GEN_CLEAN/mat_16000_0.005_0.6_1.mtx	324
-/home/public/GEN_CLEAN/mat_16000_0.001_0.6_1.mtx	325
-/home/public/GEN_CLEAN/mat_16000_0.001_0.6_2.mtx	326
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.6_2.mtx	327
-/home/public/GEN_CLEAN/mat_17000_0.005_0.6_2.mtx	328
-/home/public/GEN_CLEAN/mat_17000_0.001_0.6_1.mtx	329
-/home/public/GEN_CLEAN/mat_17000_0.001_0.6_2.mtx	330
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.6_2.mtx	331
-/home/public/GEN_CLEAN/mat_18000_0.005_0.6_1.mtx	332
-/home/public/GEN_CLEAN/mat_18000_0.005_0.6_2.mtx	333
-/home/public/GEN_CLEAN/mat_18000_0.001_0.6_1.mtx	334
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.6_1.mtx	335
-/home/public/GEN_CLEAN/mat_19000_0.005_0.6_1.mtx	336
-/home/public/GEN_CLEAN/mat_19000_0.005_0.6_2.mtx	337
-/home/public/GEN_CLEAN/mat_19000_0.001_0.6_1.mtx	338
-/home/public/GEN_CLEAN/mat_19000_0.001_0.6_2.mtx	339
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.6_1.mtx	340
-/home/public/GEN_CLEAN/mat_20000_0.005_0.6_1.mtx	341
-/home/public/GEN_CLEAN/mat_20000_0.001_0.6_1.mtx	342
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.6_2.mtx	343
-/home/public/GEN_CLEAN/mat_5000_0.005_0.5_2.mtx	344
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.5_1.mtx	345
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.5_2.mtx	346
-/home/public/GEN_CLEAN/mat_6000_0.005_0.5_1.mtx	347
-/home/public/GEN_CLEAN/mat_6000_0.005_0.5_2.mtx	348
-/home/public/GEN_CLEAN/mat_6000_0.001_0.5_2.mtx	349
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.5_1.mtx	350
-/home/public/GEN_CLEAN/mat_7000_0.005_0.5_2.mtx	351
-/home/public/GEN_CLEAN/mat_7000_0.001_0.5_1.mtx	352
-/home/public/GEN_CLEAN/mat_7000_0.001_0.5_2.mtx	353
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.5_2.mtx	354
-/home/public/GEN_CLEAN/mat_8000_0.005_0.5_2.mtx	355
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.5_2.mtx	356
-/home/public/GEN_CLEAN/mat_9000_0.005_0.5_1.mtx	357
-/home/public/GEN_CLEAN/mat_9000_0.005_0.5_2.mtx	358
-/home/public/GEN_CLEAN/mat_9000_0.001_0.5_2.mtx	359
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.5_2.mtx	360
-/home/public/GEN_CLEAN/mat_10000_0.005_0.5_1.mtx	361
-/home/public/GEN_CLEAN/mat_10000_0.005_0.5_2.mtx	362
-/home/public/GEN_CLEAN/mat_10000_0.001_0.5_2.mtx	363
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.5_1.mtx	364
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.5_2.mtx	365
-/home/public/GEN_CLEAN/mat_11000_0.005_0.5_1.mtx	366
-/home/public/GEN_CLEAN/mat_11000_0.005_0.5_2.mtx	367
-/home/public/GEN_CLEAN/mat_11000_0.001_0.5_1.mtx	368
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.5_1.mtx	369
-/home/public/GEN_CLEAN/mat_12000_0.001_0.5_1.mtx	370
-/home/public/GEN_CLEAN/mat_12000_0.001_0.5_2.mtx	371
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.5_2.mtx	372
-/home/public/GEN_CLEAN/mat_13000_0.005_0.5_2.mtx	373
-/home/public/GEN_CLEAN/mat_13000_0.001_0.5_1.mtx	374
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.5_1.mtx	375
-/home/public/GEN_CLEAN/mat_14000_0.005_0.5_1.mtx	376
-/home/public/GEN_CLEAN/mat_14000_0.001_0.5_1.mtx	377
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.5_1.mtx	378
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.5_1.mtx	379
-/home/public/GEN_CLEAN/mat_16000_0.005_0.5_1.mtx	380
-/home/public/GEN_CLEAN/mat_16000_0.001_0.5_1.mtx	381
-/home/public/GEN_CLEAN/mat_16000_0.001_0.5_2.mtx	382
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.5_1.mtx	383
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.5_2.mtx	384
-/home/public/GEN_CLEAN/mat_17000_0.005_0.5_2.mtx	385
-/home/public/GEN_CLEAN/mat_17000_0.001_0.5_1.mtx	386
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.5_1.mtx	387
-/home/public/GEN_CLEAN/mat_18000_0.005_0.5_2.mtx	388
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.5_1.mtx	389
-/home/public/GEN_CLEAN/mat_19000_0.005_0.5_2.mtx	390
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.5_1.mtx	391
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.5_2.mtx	392
-/home/public/GEN_CLEAN/mat_20000_0.005_0.5_1.mtx	393
-/home/public/GEN_CLEAN/mat_20000_0.001_0.5_1.mtx	394
-/home/public/GEN_CLEAN/mat_20000_0.001_0.5_2.mtx	395
-/home/public/GEN_CLEAN/mat_5000_0.005_0.7_1.mtx	396
-/home/public/GEN_CLEAN/mat_5000_0.005_0.7_2.mtx	397
-/home/public/GEN_CLEAN/mat_5000_0.001_0.7_2.mtx	398
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.7_1.mtx	399
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.7_2.mtx	400
-/home/public/GEN_CLEAN/mat_6000_0.005_0.7_2.mtx	401
-/home/public/GEN_CLEAN/mat_6000_0.001_0.7_1.mtx	402
-/home/public/GEN_CLEAN/mat_6000_0.001_0.7_2.mtx	403
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.7_2.mtx	404
-/home/public/GEN_CLEAN/mat_7000_0.005_0.7_1.mtx	405
-/home/public/GEN_CLEAN/mat_7000_0.005_0.7_2.mtx	406
-/home/public/GEN_CLEAN/mat_7000_0.001_0.7_2.mtx	407
-/home/public/GEN_CLEAN/mat_8000_0.005_0.7_1.mtx	408
-/home/public/GEN_CLEAN/mat_8000_0.005_0.7_2.mtx	409
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.7_2.mtx	410
-/home/public/GEN_CLEAN/mat_9000_0.005_0.7_2.mtx	411
-/home/public/GEN_CLEAN/mat_9000_0.001_0.7_1.mtx	412
-/home/public/GEN_CLEAN/mat_9000_0.001_0.7_2.mtx	413
-/home/public/GEN_CLEAN/mat_10000_0.005_0.7_1.mtx	414
-/home/public/GEN_CLEAN/mat_10000_0.005_0.7_2.mtx	415
-/home/public/GEN_CLEAN/mat_10000_0.001_0.7_2.mtx	416
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.7_1.mtx	417
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.7_2.mtx	418
-/home/public/GEN_CLEAN/mat_11000_0.005_0.7_2.mtx	419
-/home/public/GEN_CLEAN/mat_11000_0.001_0.7_1.mtx	420
-/home/public/GEN_CLEAN/mat_11000_0.001_0.7_2.mtx	421
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.7_1.mtx	422
-/home/public/GEN_CLEAN/mat_12000_0.005_0.7_1.mtx	423
-/home/public/GEN_CLEAN/mat_12000_0.005_0.7_2.mtx	424
-/home/public/GEN_CLEAN/mat_12000_0.001_0.7_1.mtx	425
-/home/public/GEN_CLEAN/mat_12000_0.001_0.7_2.mtx	426
-/home/public/GEN_CLEAN/mat_13000_0.005_0.7_1.mtx	427
-/home/public/GEN_CLEAN/mat_14000_0.005_0.7_1.mtx	428
-/home/public/GEN_CLEAN/mat_14000_0.005_0.7_2.mtx	429
-/home/public/GEN_CLEAN/mat_14000_0.001_0.7_1.mtx	430
-/home/public/GEN_CLEAN/mat_14000_0.001_0.7_2.mtx	431
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.7_2.mtx	432
-/home/public/GEN_CLEAN/mat_15000_0.005_0.7_1.mtx	433
-/home/public/GEN_CLEAN/mat_15000_0.005_0.7_2.mtx	434
-/home/public/GEN_CLEAN/mat_15000_0.001_0.7_1.mtx	435
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.7_1.mtx	436
-/home/public/GEN_CLEAN/mat_16000_0.005_0.7_2.mtx	437
-/home/public/GEN_CLEAN/mat_16000_0.001_0.7_1.mtx	438
-/home/public/GEN_CLEAN/mat_16000_0.001_0.7_2.mtx	439
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.7_1.mtx	440
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.7_2.mtx	441
-/home/public/GEN_CLEAN/mat_17000_0.001_0.7_1.mtx	442
-/home/public/GEN_CLEAN/mat_17000_0.001_0.7_2.mtx	443
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.7_2.mtx	444
-/home/public/GEN_CLEAN/mat_18000_0.005_0.7_1.mtx	445
-/home/public/GEN_CLEAN/mat_18000_0.005_0.7_2.mtx	446
-/home/public/GEN_CLEAN/mat_18000_0.001_0.7_1.mtx	447
-/home/public/GEN_CLEAN/mat_18000_0.001_0.7_2.mtx	448
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.7_2.mtx	449
-/home/public/GEN_CLEAN/mat_19000_0.001_0.7_1.mtx	450
-/home/public/GEN_CLEAN/mat_19000_0.001_0.7_2.mtx	451
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.7_1.mtx	452
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.7_2.mtx	453
-/home/public/GEN_CLEAN/mat_20000_0.001_0.7_1.mtx	454
-/home/public/GEN_CLEAN/mat_20000_0.001_0.7_2.mtx	455
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.7_1.mtx	456
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.7_2.mtx	457
-/home/public/GEN_CLEAN/mat_5000_0.005_0.45_1.mtx	458
-/home/public/GEN_CLEAN/mat_5000_0.005_0.45_2.mtx	459
-/home/public/GEN_CLEAN/mat_5000_0.001_0.45_1.mtx	460
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.45_2.mtx	461
-/home/public/GEN_CLEAN/mat_6000_0.005_0.45_2.mtx	462
-/home/public/GEN_CLEAN/mat_6000_0.001_0.45_1.mtx	463
-/home/public/GEN_CLEAN/mat_6000_0.001_0.45_2.mtx	464
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.45_1.mtx	465
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.45_2.mtx	466
-/home/public/GEN_CLEAN/mat_7000_0.005_0.45_1.mtx	467
-/home/public/GEN_CLEAN/mat_7000_0.005_0.45_2.mtx	468
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.45_2.mtx	469
-/home/public/GEN_CLEAN/mat_8000_0.005_0.45_1.mtx	470
-/home/public/GEN_CLEAN/mat_8000_0.005_0.45_2.mtx	471
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.45_2.mtx	472
-/home/public/GEN_CLEAN/mat_9000_0.005_0.45_1.mtx	473
-/home/public/GEN_CLEAN/mat_9000_0.005_0.45_2.mtx	474
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.45_2.mtx	475
-/home/public/GEN_CLEAN/mat_10000_0.005_0.45_1.mtx	476
-/home/public/GEN_CLEAN/mat_10000_0.005_0.45_2.mtx	477
-/home/public/GEN_CLEAN/mat_10000_0.001_0.45_2.mtx	478
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.45_1.mtx	479
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.45_2.mtx	480
-/home/public/GEN_CLEAN/mat_11000_0.005_0.45_1.mtx	481
-/home/public/GEN_CLEAN/mat_11000_0.005_0.45_2.mtx	482
-/home/public/GEN_CLEAN/mat_11000_0.001_0.45_1.mtx	483
-/home/public/GEN_CLEAN/mat_11000_0.001_0.45_2.mtx	484
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.45_1.mtx	485
-/home/public/GEN_CLEAN/mat_12000_0.005_0.45_2.mtx	486
-/home/public/GEN_CLEAN/mat_12000_0.001_0.45_1.mtx	487
-/home/public/GEN_CLEAN/mat_12000_0.001_0.45_2.mtx	488
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.45_2.mtx	489
-/home/public/GEN_CLEAN/mat_13000_0.005_0.45_2.mtx	490
-/home/public/GEN_CLEAN/mat_13000_0.001_0.45_1.mtx	491
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.45_2.mtx	492
-/home/public/GEN_CLEAN/mat_14000_0.005_0.45_2.mtx	493
-/home/public/GEN_CLEAN/mat_14000_0.001_0.45_1.mtx	494
-/home/public/GEN_CLEAN/mat_15000_0.005_0.45_1.mtx	495
-/home/public/GEN_CLEAN/mat_15000_0.005_0.45_2.mtx	496
-/home/public/GEN_CLEAN/mat_15000_0.001_0.45_1.mtx	497
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.45_1.mtx	498
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.45_2.mtx	499
-/home/public/GEN_CLEAN/mat_16000_0.005_0.45_1.mtx	500
-/home/public/GEN_CLEAN/mat_16000_0.005_0.45_2.mtx	501
-/home/public/GEN_CLEAN/mat_16000_0.001_0.45_1.mtx	502
-/home/public/GEN_CLEAN/mat_16000_0.001_0.45_2.mtx	503
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.45_2.mtx	504
-/home/public/GEN_CLEAN/mat_17000_0.005_0.45_1.mtx	505
-/home/public/GEN_CLEAN/mat_17000_0.005_0.45_2.mtx	506
-/home/public/GEN_CLEAN/mat_17000_0.001_0.45_1.mtx	507
-/home/public/GEN_CLEAN/mat_17000_0.001_0.45_2.mtx	508
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.45_2.mtx	509
-/home/public/GEN_CLEAN/mat_18000_0.005_0.45_1.mtx	510
-/home/public/GEN_CLEAN/mat_18000_0.005_0.45_2.mtx	511
-/home/public/GEN_CLEAN/mat_19000_0.005_0.45_1.mtx	512
-/home/public/GEN_CLEAN/mat_19000_0.001_0.45_1.mtx	513
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.45_2.mtx	514
-/home/public/GEN_CLEAN/mat_20000_0.005_0.45_1.mtx	515
-/home/public/GEN_CLEAN/mat_20000_0.001_0.45_2.mtx	516
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.45_1.mtx	517
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.45_2.mtx	518
-/home/public/GEN_CLEAN/mat_5000_0.005_0.55_1.mtx	519
-/home/public/GEN_CLEAN/mat_5000_0.005_0.55_2.mtx	520
-/home/public/GEN_CLEAN/mat_5000_0.001_0.55_2.mtx	521
-/home/public/GEN_CLEAN/mat_6000_0.005_0.55_2.mtx	522
-/home/public/GEN_CLEAN/mat_6000_0.001_0.55_2.mtx	523
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.55_1.mtx	524
-/home/public/GEN_CLEAN/mat_7000_0.005_0.55_2.mtx	525
-/home/public/GEN_CLEAN/mat_7000_0.001_0.55_1.mtx	526
-/home/public/GEN_CLEAN/mat_7000_0.001_0.55_2.mtx	527
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.55_2.mtx	528
-/home/public/GEN_CLEAN/mat_8000_0.005_0.55_2.mtx	529
-/home/public/GEN_CLEAN/mat_8000_0.001_0.55_2.mtx	530
-/home/public/GEN_CLEAN/mat_9000_0.005_0.55_2.mtx	531
-/home/public/GEN_CLEAN/mat_10000_0.005_0.55_1.mtx	532
-/home/public/GEN_CLEAN/mat_10000_0.001_0.55_1.mtx	533
-/home/public/GEN_CLEAN/mat_10000_0.001_0.55_2.mtx	534
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.55_1.mtx	535
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.55_2.mtx	536
-/home/public/GEN_CLEAN/mat_11000_0.001_0.55_1.mtx	537
-/home/public/GEN_CLEAN/mat_11000_0.001_0.55_2.mtx	538
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.55_1.mtx	539
-/home/public/GEN_CLEAN/mat_12000_0.005_0.55_2.mtx	540
-/home/public/GEN_CLEAN/mat_12000_0.001_0.55_1.mtx	541
-/home/public/GEN_CLEAN/mat_13000_0.001_0.55_1.mtx	542
-/home/public/GEN_CLEAN/mat_13000_0.001_0.55_2.mtx	543
-/home/public/GEN_CLEAN/mat_14000_0.005_0.55_1.mtx	544
-/home/public/GEN_CLEAN/mat_14000_0.005_0.55_2.mtx	545
-/home/public/GEN_CLEAN/mat_14000_0.001_0.55_1.mtx	546
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.55_2.mtx	547
-/home/public/GEN_CLEAN/mat_15000_0.001_0.55_1.mtx	548
-/home/public/GEN_CLEAN/mat_15000_0.001_0.55_2.mtx	549
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.55_1.mtx	550
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.55_2.mtx	551
-/home/public/GEN_CLEAN/mat_16000_0.005_0.55_1.mtx	552
-/home/public/GEN_CLEAN/mat_16000_0.001_0.55_1.mtx	553
-/home/public/GEN_CLEAN/mat_16000_0.001_0.55_2.mtx	554
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.55_1.mtx	555
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.55_2.mtx	556
-/home/public/GEN_CLEAN/mat_17000_0.005_0.55_1.mtx	557
-/home/public/GEN_CLEAN/mat_17000_0.005_0.55_2.mtx	558
-/home/public/GEN_CLEAN/mat_17000_0.001_0.55_1.mtx	559
-/home/public/GEN_CLEAN/mat_18000_0.005_0.55_1.mtx	560
-/home/public/GEN_CLEAN/mat_18000_0.005_0.55_2.mtx	561
-/home/public/GEN_CLEAN/mat_18000_0.001_0.55_1.mtx	562
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.55_1.mtx	563
-/home/public/GEN_CLEAN/mat_19000_0.005_0.55_2.mtx	564
-/home/public/GEN_CLEAN/mat_19000_0.001_0.55_1.mtx	565
-/home/public/GEN_CLEAN/mat_19000_0.001_0.55_2.mtx	566
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.55_1.mtx	567
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.55_2.mtx	568
-/home/public/GEN_CLEAN/mat_20000_0.005_0.55_1.mtx	569
-/home/public/GEN_CLEAN/mat_20000_0.005_0.55_2.mtx	570
-/home/public/GEN_CLEAN/mat_20000_0.001_0.55_2.mtx	571
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.55_1.mtx	572
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.55_2.mtx	573
-/home/public/GEN_CLEAN/mat_5000_0.005_0.65_2.mtx	574
-/home/public/GEN_CLEAN/mat_5000_0.001_0.65_2.mtx	575
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.65_2.mtx	576
-/home/public/GEN_CLEAN/mat_6000_0.005_0.65_1.mtx	577
-/home/public/GEN_CLEAN/mat_6000_0.005_0.65_2.mtx	578
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.65_2.mtx	579
-/home/public/GEN_CLEAN/mat_7000_0.005_0.65_1.mtx	580
-/home/public/GEN_CLEAN/mat_7000_0.005_0.65_2.mtx	581
-/home/public/GEN_CLEAN/mat_7000_0.001_0.65_1.mtx	582
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.65_1.mtx	583
-/home/public/GEN_CLEAN/mat_8000_0.005_0.65_1.mtx	584
-/home/public/GEN_CLEAN/mat_8000_0.001_0.65_1.mtx	585
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.65_1.mtx	586
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.65_2.mtx	587
-/home/public/GEN_CLEAN/mat_9000_0.005_0.65_1.mtx	588
-/home/public/GEN_CLEAN/mat_9000_0.005_0.65_2.mtx	589
-/home/public/GEN_CLEAN/mat_9000_0.001_0.65_1.mtx	590
-/home/public/GEN_CLEAN/mat_9000_0.001_0.65_2.mtx	591
-/home/public/GEN_CLEAN/mat_10000_0.005_0.65_1.mtx	592
-/home/public/GEN_CLEAN/mat_10000_0.005_0.65_2.mtx	593
-/home/public/GEN_CLEAN/mat_10000_0.001_0.65_1.mtx	594
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.65_1.mtx	595
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.65_2.mtx	596
-/home/public/GEN_CLEAN/mat_11000_0.005_0.65_1.mtx	597
-/home/public/GEN_CLEAN/mat_11000_0.001_0.65_1.mtx	598
-/home/public/GEN_CLEAN/mat_11000_0.001_0.65_2.mtx	599
-/home/public/GEN_CLEAN/mat_12000_0.005_0.65_1.mtx	600
-/home/public/GEN_CLEAN/mat_12000_0.005_0.65_2.mtx	601
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.65_1.mtx	602
-/home/public/GEN_CLEAN/mat_13000_0.005_0.65_1.mtx	603
-/home/public/GEN_CLEAN/mat_14000_0.005_0.65_2.mtx	604
-/home/public/GEN_CLEAN/mat_14000_0.001_0.65_1.mtx	605
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.65_2.mtx	606
-/home/public/GEN_CLEAN/mat_15000_0.005_0.65_2.mtx	607
-/home/public/GEN_CLEAN/mat_15000_0.001_0.65_1.mtx	608
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.65_1.mtx	609
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.65_2.mtx	610
-/home/public/GEN_CLEAN/mat_16000_0.005_0.65_1.mtx	611
-/home/public/GEN_CLEAN/mat_16000_0.001_0.65_1.mtx	612
-/home/public/GEN_CLEAN/mat_16000_0.001_0.65_2.mtx	613
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.65_1.mtx	614
-/home/public/GEN_CLEAN/mat_17000_0.001_0.65_1.mtx	615
-/home/public/GEN_CLEAN/mat_17000_0.001_0.65_2.mtx	616
-/home/public/GEN_CLEAN/mat_18000_0.005_0.65_1.mtx	617
-/home/public/GEN_CLEAN/mat_18000_0.005_0.65_2.mtx	618
-/home/public/GEN_CLEAN/mat_18000_0.001_0.65_1.mtx	619
-/home/public/GEN_CLEAN/mat_18000_0.001_0.65_2.mtx	620
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.65_1.mtx	621
-/home/public/GEN_CLEAN/mat_19000_0.001_0.65_1.mtx	622
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.65_1.mtx	623
-/home/public/GEN_CLEAN/mat_20000_0.001_0.65_2.mtx	624
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.65_1.mtx	625
-/home/public/GEN_CLEAN/mat_5000_0.005_0.75_2.mtx	626
-/home/public/GEN_CLEAN/mat_5000_0.001_0.75_2.mtx	627
-/home/public/GEN_CLEAN/mat_6000_0.005_0.75_1.mtx	628
-/home/public/GEN_CLEAN/mat_6000_0.005_0.75_2.mtx	629
-/home/public/GEN_CLEAN/mat_6000_0.001_0.75_2.mtx	630
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.75_1.mtx	631
-/home/public/GEN_CLEAN/mat_7000_0.005_0.75_1.mtx	632
-/home/public/GEN_CLEAN/mat_7000_0.005_0.75_2.mtx	633
-/home/public/GEN_CLEAN/mat_7000_0.001_0.75_2.mtx	634
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.75_1.mtx	635
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.75_2.mtx	636
-/home/public/GEN_CLEAN/mat_8000_0.005_0.75_1.mtx	637
-/home/public/GEN_CLEAN/mat_8000_0.001_0.75_1.mtx	638
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.75_2.mtx	639
-/home/public/GEN_CLEAN/mat_9000_0.005_0.75_1.mtx	640
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.75_2.mtx	641
-/home/public/GEN_CLEAN/mat_10000_0.005_0.75_2.mtx	642
-/home/public/GEN_CLEAN/mat_10000_0.001_0.75_2.mtx	643
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.75_1.mtx	644
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.75_2.mtx	645
-/home/public/GEN_CLEAN/mat_11000_0.005_0.75_1.mtx	646
-/home/public/GEN_CLEAN/mat_11000_0.005_0.75_2.mtx	647
-/home/public/GEN_CLEAN/mat_11000_0.001_0.75_1.mtx	648
-/home/public/GEN_CLEAN/mat_11000_0.001_0.75_2.mtx	649
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.75_1.mtx	650
-/home/public/GEN_CLEAN/mat_12000_0.005_0.75_1.mtx	651
-/home/public/GEN_CLEAN/mat_12000_0.005_0.75_2.mtx	652
-/home/public/GEN_CLEAN/mat_12000_0.001_0.75_1.mtx	653
-/home/public/GEN_CLEAN/mat_12000_0.001_0.75_2.mtx	654
-/home/public/GEN_CLEAN/mat_13000_0.005_0.75_2.mtx	655
-/home/public/GEN_CLEAN/mat_13000_0.001_0.75_1.mtx	656
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.75_2.mtx	657
-/home/public/GEN_CLEAN/mat_14000_0.001_0.75_1.mtx	658
-/home/public/GEN_CLEAN/mat_14000_0.001_0.75_2.mtx	659
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.75_1.mtx	660
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.75_2.mtx	661
-/home/public/GEN_CLEAN/mat_15000_0.005_0.75_1.mtx	662
-/home/public/GEN_CLEAN/mat_15000_0.001_0.75_1.mtx	663
-/home/public/GEN_CLEAN/mat_15000_0.001_0.75_2.mtx	664
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.75_2.mtx	665
-/home/public/GEN_CLEAN/mat_16000_0.005_0.75_1.mtx	666
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.75_1.mtx	667
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.75_2.mtx	668
-/home/public/GEN_CLEAN/mat_17000_0.005_0.75_2.mtx	669
-/home/public/GEN_CLEAN/mat_17000_0.001_0.75_1.mtx	670
-/home/public/GEN_CLEAN/mat_17000_0.001_0.75_2.mtx	671
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.75_1.mtx	672
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.75_2.mtx	673
-/home/public/GEN_CLEAN/mat_18000_0.005_0.75_2.mtx	674
-/home/public/GEN_CLEAN/mat_19000_0.001_0.75_1.mtx	675
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.75_1.mtx	676
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.75_2.mtx	677
-/home/public/GEN_CLEAN/mat_20000_0.005_0.75_2.mtx	678
-/home/public/GEN_CLEAN/mat_20000_0.001_0.75_1.mtx	679
-/home/public/GEN_CLEAN/mat_5000_0.005_0.8_1.mtx	680
-/home/public/GEN_CLEAN/mat_5000_0.001_0.4_1.mtx	681
-/home/public/GEN_CLEAN/mat_5000_0.001_0.4_2.mtx	682
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.4_2.mtx	683
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.8_1.mtx	684
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.8_2.mtx	685
-/home/public/GEN_CLEAN/mat_6000_0.005_0.4_1.mtx	686
-/home/public/GEN_CLEAN/mat_6000_0.005_0.4_2.mtx	687
-/home/public/GEN_CLEAN/mat_6000_0.005_0.8_1.mtx	688
-/home/public/GEN_CLEAN/mat_6000_0.001_0.4_1.mtx	689
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.8_1.mtx	690
-/home/public/GEN_CLEAN/mat_7000_0.005_0.4_1.mtx	691
-/home/public/GEN_CLEAN/mat_7000_0.001_0.4_1.mtx	692
-/home/public/GEN_CLEAN/mat_7000_0.001_0.8_1.mtx	693
-/home/public/GEN_CLEAN/mat_7000_0.001_0.8_2.mtx	694
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.4_1.mtx	695
-/home/public/GEN_CLEAN/mat_8000_0.001_0.4_1.mtx	696
-/home/public/GEN_CLEAN/mat_8000_0.001_0.8_1.mtx	697
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.4_1.mtx	698
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.8_1.mtx	699
-/home/public/GEN_CLEAN/mat_9000_0.005_0.8_2.mtx	700
-/home/public/GEN_CLEAN/mat_9000_0.001_0.8_1.mtx	701
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.4_1.mtx	702
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.4_2.mtx	703
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.8_2.mtx	704
-/home/public/GEN_CLEAN/mat_10000_0.005_0.8_1.mtx	705
-/home/public/GEN_CLEAN/mat_10000_0.001_0.8_2.mtx	706
-/home/public/GEN_CLEAN/mat_11000_0.005_0.8_1.mtx	707
-/home/public/GEN_CLEAN/mat_11000_0.001_0.4_2.mtx	708
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.4_1.mtx	709
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.4_2.mtx	710
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.8_1.mtx	711
-/home/public/GEN_CLEAN/mat_12000_0.001_0.8_2.mtx	712
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.4_2.mtx	713
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.8_1.mtx	714
-/home/public/GEN_CLEAN/mat_13000_0.005_0.4_1.mtx	715
-/home/public/GEN_CLEAN/mat_13000_0.005_0.4_2.mtx	716
-/home/public/GEN_CLEAN/mat_13000_0.001_0.4_2.mtx	717
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.4_1.mtx	718
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.4_2.mtx	719
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.8_1.mtx	720
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.8_2.mtx	721
-/home/public/GEN_CLEAN/mat_14000_0.005_0.8_1.mtx	722
-/home/public/GEN_CLEAN/mat_14000_0.001_0.4_1.mtx	723
-/home/public/GEN_CLEAN/mat_14000_0.001_0.8_2.mtx	724
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.8_2.mtx	725
-/home/public/GEN_CLEAN/mat_15000_0.005_0.4_1.mtx	726
-/home/public/GEN_CLEAN/mat_15000_0.005_0.4_2.mtx	727
-/home/public/GEN_CLEAN/mat_15000_0.001_0.4_2.mtx	728
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.8_2.mtx	729
-/home/public/GEN_CLEAN/mat_16000_0.005_0.4_1.mtx	730
-/home/public/GEN_CLEAN/mat_16000_0.001_0.4_2.mtx	731
-/home/public/GEN_CLEAN/mat_16000_0.001_0.8_2.mtx	732
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.8_1.mtx	733
-/home/public/GEN_CLEAN/mat_17000_0.005_0.4_1.mtx	734
-/home/public/GEN_CLEAN/mat_17000_0.005_0.4_2.mtx	735
-/home/public/GEN_CLEAN/mat_17000_0.005_0.8_2.mtx	736
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.8_2.mtx	737
-/home/public/GEN_CLEAN/mat_18000_0.005_0.4_2.mtx	738
-/home/public/GEN_CLEAN/mat_18000_0.005_0.8_2.mtx	739
-/home/public/GEN_CLEAN/mat_18000_0.001_0.8_2.mtx	740
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.4_1.mtx	741
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.4_2.mtx	742
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.8_2.mtx	743
-/home/public/GEN_CLEAN/mat_19000_0.005_0.4_2.mtx	744
-/home/public/GEN_CLEAN/mat_19000_0.005_0.8_2.mtx	745
-/home/public/GEN_CLEAN/mat_19000_0.001_0.8_2.mtx	746
-/home/public/GEN_CLEAN/mat_20000_0.001_0.4_1.mtx	747
-/home/public/GEN_CLEAN/mat_20000_0.001_0.4_2.mtx	748
-/home/public/GEN_CLEAN/mat_20000_0.001_0.8_2.mtx	749
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.4_2.mtx	750
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.8_1.mtx	751
-/home/public/GEN_CLEAN/mat_20000_0.0001_0.4_2.mtx	752
-/home/public/GEN_CLEAN/mat_20000_0.0001_0.8_1.mtx	753
-/home/public/GEN_CLEAN/mat_20000_0.0001_0.8_2.mtx	754
-/home/public/GEN_CLEAN/mat_25000_0.001_0.4_1.mtx	755
-/home/public/GEN_CLEAN/mat_25000_0.001_0.4_2.mtx	756
-/home/public/GEN_CLEAN/mat_25000_0.0005_0.4_1.mtx	757
-/home/public/GEN_CLEAN/mat_25000_0.0005_0.8_2.mtx	758
-/home/public/GEN_CLEAN/mat_25000_0.0001_0.4_1.mtx	759
-/home/public/GEN_CLEAN/mat_25000_0.0001_0.8_1.mtx	760
-/home/public/GEN_CLEAN/mat_25000_0.0001_0.8_2.mtx	761
-/home/public/GEN_CLEAN/mat_30000_0.001_0.4_1.mtx	762
-/home/public/GEN_CLEAN/mat_30000_0.001_0.4_2.mtx	763
-/home/public/GEN_CLEAN/mat_30000_0.0005_0.4_2.mtx	764
-/home/public/GEN_CLEAN/mat_30000_0.0001_0.4_1.mtx	765
-/home/public/GEN_CLEAN/mat_30000_0.0001_0.4_2.mtx	766
-/home/public/GEN_CLEAN/mat_35000_0.001_0.4_1.mtx	767
-/home/public/GEN_CLEAN/mat_35000_0.001_0.4_2.mtx	768
-/home/public/GEN_CLEAN/mat_35000_0.001_0.8_1.mtx	769
-/home/public/GEN_CLEAN/mat_35000_0.001_0.8_2.mtx	770
-/home/public/GEN_CLEAN/mat_35000_0.0005_0.8_1.mtx	771
-/home/public/GEN_CLEAN/mat_35000_0.0001_0.4_2.mtx	772
-/home/public/GEN_CLEAN/mat_35000_0.0001_0.8_1.mtx	773
-/home/public/GEN_CLEAN/mat_40000_0.001_0.4_1.mtx	774
-/home/public/GEN_CLEAN/mat_40000_0.001_0.4_2.mtx	775
-/home/public/GEN_CLEAN/mat_40000_0.0005_0.4_2.mtx	776
-/home/public/GEN_CLEAN/mat_40000_0.0005_0.8_2.mtx	777
-/home/public/GEN_CLEAN/mat_40000_0.0001_0.4_1.mtx	778
-/home/public/GEN_CLEAN/mat_40000_0.0001_0.4_2.mtx	779
-/home/public/GEN_CLEAN/mat_6000_0.001_0.6_1.mtx	780
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.6_1.mtx	781
-/home/public/GEN_CLEAN/mat_8000_0.001_0.6_2.mtx	782
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.6_1.mtx	783
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.6_1.mtx	784
-/home/public/GEN_CLEAN/mat_10000_0.005_0.6_1.mtx	785
-/home/public/GEN_CLEAN/mat_10000_0.0005_0.6_1.mtx	786
-/home/public/GEN_CLEAN/mat_11000_0.001_0.6_1.mtx	787
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.6_2.mtx	788
-/home/public/GEN_CLEAN/mat_12000_0.005_0.6_2.mtx	789
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.6_2.mtx	790
-/home/public/GEN_CLEAN/mat_13000_0.001_0.6_2.mtx	791
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.6_1.mtx	792
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.6_2.mtx	793
-/home/public/GEN_CLEAN/mat_15000_0.005_0.6_1.mtx	794
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.6_2.mtx	795
-/home/public/GEN_CLEAN/mat_16000_0.005_0.6_2.mtx	796
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.6_1.mtx	797
-/home/public/GEN_CLEAN/mat_17000_0.005_0.6_1.mtx	798
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.6_1.mtx	799
-/home/public/GEN_CLEAN/mat_18000_0.001_0.6_2.mtx	800
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.6_2.mtx	801
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.6_2.mtx	802
-/home/public/GEN_CLEAN/mat_20000_0.005_0.6_2.mtx	803
-/home/public/GEN_CLEAN/mat_20000_0.001_0.6_2.mtx	804
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.6_1.mtx	805
-/home/public/GEN_CLEAN/mat_5000_0.005_0.5_1.mtx	806
-/home/public/GEN_CLEAN/mat_5000_0.001_0.5_1.mtx	807
-/home/public/GEN_CLEAN/mat_5000_0.001_0.5_2.mtx	808
-/home/public/GEN_CLEAN/mat_6000_0.001_0.5_1.mtx	809
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.5_2.mtx	810
-/home/public/GEN_CLEAN/mat_7000_0.005_0.5_1.mtx	811
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.5_1.mtx	812
-/home/public/GEN_CLEAN/mat_8000_0.005_0.5_1.mtx	813
-/home/public/GEN_CLEAN/mat_8000_0.001_0.5_1.mtx	814
-/home/public/GEN_CLEAN/mat_8000_0.001_0.5_2.mtx	815
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.5_1.mtx	816
-/home/public/GEN_CLEAN/mat_9000_0.001_0.5_1.mtx	817
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.5_1.mtx	818
-/home/public/GEN_CLEAN/mat_10000_0.001_0.5_1.mtx	819
-/home/public/GEN_CLEAN/mat_11000_0.001_0.5_2.mtx	820
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.5_2.mtx	821
-/home/public/GEN_CLEAN/mat_12000_0.005_0.5_1.mtx	822
-/home/public/GEN_CLEAN/mat_12000_0.005_0.5_2.mtx	823
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.5_1.mtx	824
-/home/public/GEN_CLEAN/mat_13000_0.005_0.5_1.mtx	825
-/home/public/GEN_CLEAN/mat_13000_0.001_0.5_2.mtx	826
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.5_2.mtx	827
-/home/public/GEN_CLEAN/mat_14000_0.005_0.5_2.mtx	828
-/home/public/GEN_CLEAN/mat_14000_0.001_0.5_2.mtx	829
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.5_2.mtx	830
-/home/public/GEN_CLEAN/mat_15000_0.005_0.5_1.mtx	831
-/home/public/GEN_CLEAN/mat_15000_0.005_0.5_2.mtx	832
-/home/public/GEN_CLEAN/mat_15000_0.001_0.5_1.mtx	833
-/home/public/GEN_CLEAN/mat_15000_0.001_0.5_2.mtx	834
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.5_2.mtx	835
-/home/public/GEN_CLEAN/mat_16000_0.005_0.5_2.mtx	836
-/home/public/GEN_CLEAN/mat_17000_0.005_0.5_1.mtx	837
-/home/public/GEN_CLEAN/mat_17000_0.001_0.5_2.mtx	838
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.5_2.mtx	839
-/home/public/GEN_CLEAN/mat_18000_0.005_0.5_1.mtx	840
-/home/public/GEN_CLEAN/mat_18000_0.001_0.5_1.mtx	841
-/home/public/GEN_CLEAN/mat_18000_0.001_0.5_2.mtx	842
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.5_2.mtx	843
-/home/public/GEN_CLEAN/mat_19000_0.005_0.5_1.mtx	844
-/home/public/GEN_CLEAN/mat_19000_0.001_0.5_1.mtx	845
-/home/public/GEN_CLEAN/mat_19000_0.001_0.5_2.mtx	846
-/home/public/GEN_CLEAN/mat_20000_0.005_0.5_2.mtx	847
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.5_1.mtx	848
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.5_2.mtx	849
-/home/public/GEN_CLEAN/mat_5000_0.001_0.7_1.mtx	850
-/home/public/GEN_CLEAN/mat_6000_0.005_0.7_1.mtx	851
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.7_1.mtx	852
-/home/public/GEN_CLEAN/mat_7000_0.001_0.7_1.mtx	853
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.7_1.mtx	854
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.7_2.mtx	855
-/home/public/GEN_CLEAN/mat_8000_0.001_0.7_1.mtx	856
-/home/public/GEN_CLEAN/mat_8000_0.001_0.7_2.mtx	857
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.7_1.mtx	858
-/home/public/GEN_CLEAN/mat_9000_0.005_0.7_1.mtx	859
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.7_1.mtx	860
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.7_2.mtx	861
-/home/public/GEN_CLEAN/mat_10000_0.001_0.7_1.mtx	862
-/home/public/GEN_CLEAN/mat_11000_0.005_0.7_1.mtx	863
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.7_2.mtx	864
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.7_1.mtx	865
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.7_2.mtx	866
-/home/public/GEN_CLEAN/mat_13000_0.005_0.7_2.mtx	867
-/home/public/GEN_CLEAN/mat_13000_0.001_0.7_1.mtx	868
-/home/public/GEN_CLEAN/mat_13000_0.001_0.7_2.mtx	869
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.7_1.mtx	870
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.7_2.mtx	871
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.7_1.mtx	872
-/home/public/GEN_CLEAN/mat_15000_0.001_0.7_2.mtx	873
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.7_2.mtx	874
-/home/public/GEN_CLEAN/mat_16000_0.005_0.7_1.mtx	875
-/home/public/GEN_CLEAN/mat_17000_0.005_0.7_1.mtx	876
-/home/public/GEN_CLEAN/mat_17000_0.005_0.7_2.mtx	877
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.7_1.mtx	878
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.7_1.mtx	879
-/home/public/GEN_CLEAN/mat_19000_0.005_0.7_1.mtx	880
-/home/public/GEN_CLEAN/mat_19000_0.005_0.7_2.mtx	881
-/home/public/GEN_CLEAN/mat_20000_0.005_0.7_1.mtx	882
-/home/public/GEN_CLEAN/mat_20000_0.005_0.7_2.mtx	883
-/home/public/GEN_CLEAN/mat_5000_0.001_0.45_2.mtx	884
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.45_1.mtx	885
-/home/public/GEN_CLEAN/mat_6000_0.005_0.45_1.mtx	886
-/home/public/GEN_CLEAN/mat_7000_0.001_0.45_1.mtx	887
-/home/public/GEN_CLEAN/mat_7000_0.001_0.45_2.mtx	888
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.45_1.mtx	889
-/home/public/GEN_CLEAN/mat_8000_0.001_0.45_1.mtx	890
-/home/public/GEN_CLEAN/mat_8000_0.001_0.45_2.mtx	891
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.45_1.mtx	892
-/home/public/GEN_CLEAN/mat_9000_0.001_0.45_1.mtx	893
-/home/public/GEN_CLEAN/mat_9000_0.001_0.45_2.mtx	894
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.45_1.mtx	895
-/home/public/GEN_CLEAN/mat_10000_0.001_0.45_1.mtx	896
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.45_2.mtx	897
-/home/public/GEN_CLEAN/mat_12000_0.005_0.45_1.mtx	898
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.45_1.mtx	899
-/home/public/GEN_CLEAN/mat_13000_0.005_0.45_1.mtx	900
-/home/public/GEN_CLEAN/mat_13000_0.001_0.45_2.mtx	901
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.45_1.mtx	902
-/home/public/GEN_CLEAN/mat_14000_0.005_0.45_1.mtx	903
-/home/public/GEN_CLEAN/mat_14000_0.001_0.45_2.mtx	904
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.45_1.mtx	905
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.45_2.mtx	906
-/home/public/GEN_CLEAN/mat_15000_0.001_0.45_2.mtx	907
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.45_1.mtx	908
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.45_1.mtx	909
-/home/public/GEN_CLEAN/mat_18000_0.001_0.45_1.mtx	910
-/home/public/GEN_CLEAN/mat_18000_0.001_0.45_2.mtx	911
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.45_1.mtx	912
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.45_2.mtx	913
-/home/public/GEN_CLEAN/mat_19000_0.005_0.45_2.mtx	914
-/home/public/GEN_CLEAN/mat_19000_0.001_0.45_2.mtx	915
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.45_1.mtx	916
-/home/public/GEN_CLEAN/mat_20000_0.005_0.45_2.mtx	917
-/home/public/GEN_CLEAN/mat_20000_0.001_0.45_1.mtx	918
-/home/public/GEN_CLEAN/mat_5000_0.001_0.55_1.mtx	919
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.55_1.mtx	920
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.55_2.mtx	921
-/home/public/GEN_CLEAN/mat_6000_0.005_0.55_1.mtx	922
-/home/public/GEN_CLEAN/mat_6000_0.001_0.55_1.mtx	923
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.55_2.mtx	924
-/home/public/GEN_CLEAN/mat_7000_0.005_0.55_1.mtx	925
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.55_1.mtx	926
-/home/public/GEN_CLEAN/mat_8000_0.005_0.55_1.mtx	927
-/home/public/GEN_CLEAN/mat_8000_0.001_0.55_1.mtx	928
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.55_1.mtx	929
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.55_2.mtx	930
-/home/public/GEN_CLEAN/mat_9000_0.005_0.55_1.mtx	931
-/home/public/GEN_CLEAN/mat_9000_0.001_0.55_1.mtx	932
-/home/public/GEN_CLEAN/mat_9000_0.001_0.55_2.mtx	933
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.55_1.mtx	934
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.55_2.mtx	935
-/home/public/GEN_CLEAN/mat_10000_0.005_0.55_2.mtx	936
-/home/public/GEN_CLEAN/mat_11000_0.005_0.55_1.mtx	937
-/home/public/GEN_CLEAN/mat_11000_0.005_0.55_2.mtx	938
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.55_2.mtx	939
-/home/public/GEN_CLEAN/mat_12000_0.005_0.55_1.mtx	940
-/home/public/GEN_CLEAN/mat_12000_0.001_0.55_2.mtx	941
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.55_1.mtx	942
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.55_2.mtx	943
-/home/public/GEN_CLEAN/mat_13000_0.005_0.55_1.mtx	944
-/home/public/GEN_CLEAN/mat_13000_0.005_0.55_2.mtx	945
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.55_1.mtx	946
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.55_2.mtx	947
-/home/public/GEN_CLEAN/mat_14000_0.001_0.55_2.mtx	948
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.55_1.mtx	949
-/home/public/GEN_CLEAN/mat_15000_0.005_0.55_1.mtx	950
-/home/public/GEN_CLEAN/mat_15000_0.005_0.55_2.mtx	951
-/home/public/GEN_CLEAN/mat_16000_0.005_0.55_2.mtx	952
-/home/public/GEN_CLEAN/mat_17000_0.001_0.55_2.mtx	953
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.55_1.mtx	954
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.55_2.mtx	955
-/home/public/GEN_CLEAN/mat_18000_0.001_0.55_2.mtx	956
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.55_2.mtx	957
-/home/public/GEN_CLEAN/mat_19000_0.005_0.55_1.mtx	958
-/home/public/GEN_CLEAN/mat_20000_0.001_0.55_1.mtx	959
-/home/public/GEN_CLEAN/mat_5000_0.005_0.65_1.mtx	960
-/home/public/GEN_CLEAN/mat_5000_0.001_0.65_1.mtx	961
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.65_1.mtx	962
-/home/public/GEN_CLEAN/mat_6000_0.001_0.65_1.mtx	963
-/home/public/GEN_CLEAN/mat_6000_0.001_0.65_2.mtx	964
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.65_1.mtx	965
-/home/public/GEN_CLEAN/mat_7000_0.001_0.65_2.mtx	966
-/home/public/GEN_CLEAN/mat_7000_0.0005_0.65_2.mtx	967
-/home/public/GEN_CLEAN/mat_8000_0.005_0.65_2.mtx	968
-/home/public/GEN_CLEAN/mat_8000_0.001_0.65_2.mtx	969
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.65_1.mtx	970
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.65_2.mtx	971
-/home/public/GEN_CLEAN/mat_10000_0.001_0.65_2.mtx	972
-/home/public/GEN_CLEAN/mat_11000_0.005_0.65_2.mtx	973
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.65_1.mtx	974
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.65_2.mtx	975
-/home/public/GEN_CLEAN/mat_12000_0.001_0.65_1.mtx	976
-/home/public/GEN_CLEAN/mat_12000_0.001_0.65_2.mtx	977
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.65_2.mtx	978
-/home/public/GEN_CLEAN/mat_13000_0.005_0.65_2.mtx	979
-/home/public/GEN_CLEAN/mat_13000_0.001_0.65_1.mtx	980
-/home/public/GEN_CLEAN/mat_13000_0.001_0.65_2.mtx	981
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.65_1.mtx	982
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.65_2.mtx	983
-/home/public/GEN_CLEAN/mat_14000_0.005_0.65_1.mtx	984
-/home/public/GEN_CLEAN/mat_14000_0.001_0.65_2.mtx	985
-/home/public/GEN_CLEAN/mat_14000_0.0005_0.65_1.mtx	986
-/home/public/GEN_CLEAN/mat_15000_0.005_0.65_1.mtx	987
-/home/public/GEN_CLEAN/mat_15000_0.001_0.65_2.mtx	988
-/home/public/GEN_CLEAN/mat_16000_0.005_0.65_2.mtx	989
-/home/public/GEN_CLEAN/mat_16000_0.0005_0.65_2.mtx	990
-/home/public/GEN_CLEAN/mat_17000_0.005_0.65_1.mtx	991
-/home/public/GEN_CLEAN/mat_17000_0.005_0.65_2.mtx	992
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.65_1.mtx	993
-/home/public/GEN_CLEAN/mat_17000_0.0005_0.65_2.mtx	994
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.65_2.mtx	995
-/home/public/GEN_CLEAN/mat_19000_0.005_0.65_1.mtx	996
-/home/public/GEN_CLEAN/mat_19000_0.005_0.65_2.mtx	997
-/home/public/GEN_CLEAN/mat_19000_0.001_0.65_2.mtx	998
-/home/public/GEN_CLEAN/mat_19000_0.0005_0.65_2.mtx	999
-/home/public/GEN_CLEAN/mat_20000_0.005_0.65_1.mtx	1000
-/home/public/GEN_CLEAN/mat_20000_0.005_0.65_2.mtx	1001
-/home/public/GEN_CLEAN/mat_20000_0.001_0.65_1.mtx	1002
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.65_2.mtx	1003
-/home/public/GEN_CLEAN/mat_5000_0.005_0.75_1.mtx	1004
-/home/public/GEN_CLEAN/mat_5000_0.001_0.75_1.mtx	1005
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.75_1.mtx	1006
-/home/public/GEN_CLEAN/mat_5000_0.0005_0.75_2.mtx	1007
-/home/public/GEN_CLEAN/mat_6000_0.001_0.75_1.mtx	1008
-/home/public/GEN_CLEAN/mat_6000_0.0005_0.75_2.mtx	1009
-/home/public/GEN_CLEAN/mat_7000_0.001_0.75_1.mtx	1010
-/home/public/GEN_CLEAN/mat_8000_0.005_0.75_2.mtx	1011
-/home/public/GEN_CLEAN/mat_8000_0.001_0.75_2.mtx	1012
-/home/public/GEN_CLEAN/mat_8000_0.0005_0.75_1.mtx	1013
-/home/public/GEN_CLEAN/mat_9000_0.005_0.75_2.mtx	1014
-/home/public/GEN_CLEAN/mat_9000_0.001_0.75_1.mtx	1015
-/home/public/GEN_CLEAN/mat_9000_0.001_0.75_2.mtx	1016
-/home/public/GEN_CLEAN/mat_9000_0.0005_0.75_1.mtx	1017
-/home/public/GEN_CLEAN/mat_10000_0.005_0.75_1.mtx	1018
-/home/public/GEN_CLEAN/mat_10000_0.001_0.75_1.mtx	1019
-/home/public/GEN_CLEAN/mat_11000_0.0005_0.75_2.mtx	1020
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.75_1.mtx	1021
-/home/public/GEN_CLEAN/mat_12000_0.0005_0.75_2.mtx	1022
-/home/public/GEN_CLEAN/mat_13000_0.005_0.75_1.mtx	1023
-/home/public/GEN_CLEAN/mat_13000_0.001_0.75_2.mtx	1024
-/home/public/GEN_CLEAN/mat_13000_0.0005_0.75_1.mtx	1025
-/home/public/GEN_CLEAN/mat_14000_0.005_0.75_1.mtx	1026
-/home/public/GEN_CLEAN/mat_14000_0.005_0.75_2.mtx	1027
-/home/public/GEN_CLEAN/mat_15000_0.005_0.75_2.mtx	1028
-/home/public/GEN_CLEAN/mat_15000_0.0005_0.75_1.mtx	1029
-/home/public/GEN_CLEAN/mat_16000_0.005_0.75_2.mtx	1030
-/home/public/GEN_CLEAN/mat_16000_0.001_0.75_1.mtx	1031
-/home/public/GEN_CLEAN/mat_16000_0.001_0.75_2.mtx	1032
-/home/public/GEN_CLEAN/mat_17000_0.005_0.75_1.mtx	1033
-/home/public/GEN_CLEAN/mat_18000_0.005_0.75_1.mtx	1034
-/home/public/GEN_CLEAN/mat_18000_0.001_0.75_1.mtx	1035
-/home/public/GEN_CLEAN/mat_18000_0.001_0.75_2.mtx	1036
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.75_1.mtx	1037
-/home/public/GEN_CLEAN/mat_18000_0.0005_0.75_2.mtx	1038
-/home/public/GEN_CLEAN/mat_19000_0.005_0.75_1.mtx	1039
-/home/public/GEN_CLEAN/mat_19000_0.005_0.75_2.mtx	1040
-/home/public/GEN_CLEAN/mat_19000_0.001_0.75_2.mtx	1041
-/home/public/GEN_CLEAN/mat_20000_0.005_0.75_1.mtx	1042
-/home/public/GEN_CLEAN/mat_20000_0.001_0.75_2.mtx	1043
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.75_1.mtx	1044
-/home/public/GEN_CLEAN/mat_20000_0.0005_0.75_2.mtx	1045
+/home/public/DATA_TEST/msc01050/msc01050.mtx		0.07	1.35
+/home/public/DATA_TEST/bcsstk02/bcsstk02.mtx		0.01	1.25
+/home/public/DATA_TEST/bcsstk21/bcsstk21.mtx		-0.26	1.4
+/home/public/DATA_TEST/bcsstk27/bcsstk27.mtx		0	1.35
+/home/public/DATA_TEST/sts4098/sts4098.mtx		0.1	1.5
+/home/public/DATA_TEST/ex9/ex9.mtx		0.12	1.3
+/home/public/DATA_TEST/nos5/nos5.mtx		0	1.45
+/home/public/DATA_TEST/aft01/aft01.mtx		-0.05	1.45
+/home/public/DATA_TEST/fv1/fv1.mtx		-0.08	1.3
+/home/public/DATA_TEST/fv2/fv2.mtx		-0.11	1.35
+/home/public/DATA_TEST/fv3/fv3.mtx		0.06	1.4
+/home/public/DATA_TEST/msc04515/msc04515.mtx		-0.17	1.25
+/home/public/DATA_TEST/bcsstk09/bcsstk09.mtx		-0.07	1.3
+/home/public/DATA_TEST/bundle1/bundle1.mtx		0.11	1.2
+/home/public/DATA_TEST/bcsstk14/bcsstk14.mtx		-0.05	1.3
+/home/public/DATA_TEST/nasa2146/nasa2146.mtx		-0.08	1.3
+/home/public/DATA_TEST/Dubcova1/Dubcova1.mtx		0.08	1.4
+/home/public/DATA_TEST/bodyy5/bodyy5.mtx		0.08	1.5
+/home/public/DATA_TEST/bodyy4/bodyy4.mtx		-0.06	1.4
+/home/public/DATA_TEST/crystm01/crystm01.mtx		-0.04	1.25
+/home/public/DATA_TEST/gyro_k/gyro_k.mtx		-0.14	1.15
+/home/public/DATA_TEST/gyro/gyro.mtx		0.06	1.3
+/home/public/DATA_TEST/bodyy6/bodyy6.mtx		-0.25	1.25
+/home/public/DATA_TEST/msc01440/msc01440.mtx		-0.31	1.15
+/home/public/DATA_TEST/bcsstk28/bcsstk28.mtx		-0.3	1.1
+/home/public/DATA_TEST/jnlbrng1/jnlbrng1.mtx		0.06	1.3
+/home/public/DATA_TEST/thermal1/thermal1.mtx		-0.23	1.1
+/home/public/DATA_TEST/torsion1/torsion1.mtx		0.26	1.45
+/home/public/DATA_TEST/obstclae/obstclae.mtx		0.11	1.45
+/home/public/DATA_TEST/bcsstk24/bcsstk24.mtx		0.09	1.4
+/home/public/DATA_TEST/s3rmt3m3/s3rmt3m3.mtx		-0.19	1.1
+/home/public/DATA_TEST/thermomech_TK/thermomech_TK.mtx		0	1.25
+/home/public/DATA_TEST/thermomech_dM/thermomech_dM.mtx		-0.16	1.25
+/home/public/DATA_TEST/gridgena/gridgena.mtx		0	1.3
+/home/public/DATA_TEST/bcsstk17/bcsstk17.mtx		-0.08	1.25
+/home/public/DATA_TEST/Dubcova2/Dubcova2.mtx		0	1.2
+/home/public/DATA_TEST/bcsstk38/bcsstk38.mtx		-0.12	1.1
+/home/public/DATA_TEST/s1rmq4m1/s1rmq4m1.mtx		-0.21	1.05
+/home/public/DATA_TEST/s3rmq4m1/s3rmq4m1.mtx		-0.08	1.15
+/home/public/DATA_TEST/s2rmq4m1/s2rmq4m1.mtx		-0.11	1.25
+/home/public/DATA_TEST/Dubcova3/Dubcova3.mtx		-0.33	1.05
+/home/public/DATA_TEST/bcsstk18/bcsstk18.mtx		0	1.2
+/home/public/DATA_TEST/msc00726/msc00726.mtx		0.27	1.4
+/home/public/DATA_TEST/msc23052/msc23052.mtx		-0.14	1.15
+/home/public/DATA_TEST/finan512/finan512.mtx		-0.18	1.25
+/home/public/DATA_TEST/bcsstk36/bcsstk36.mtx		-0.2	1.05
+/home/public/DATA_TEST/bcsstk16/bcsstk16.mtx		-0.14	1.3
+/home/public/DATA_TEST/bcsstk15/bcsstk15.mtx		-0.24	1.1
+/home/public/DATA_TEST/shallow_water2/shallow_water2.mtx		-0.1	1.25
+/home/public/DATA_TEST/shallow_water1/shallow_water1.mtx		0.11	1.3
+/home/public/DATA_TEST/vanbody/vanbody.mtx		-0.18	1.1
+/home/public/DATA_TEST/msc10848/msc10848.mtx		0.17	1.35
+/home/public/DATA_TEST/bcsstk23/bcsstk23.mtx		-0.36	1.05
+/home/public/DATA_TEST/hood/hood.mtx		0	1.15
+/home/public/DATA_TEST/olafu/olafu.mtx		0	1.25
+/home/public/DATA_TEST/x104/x104.mtx		-0.2	1.15
+/home/public/DATA_TEST/msdoor/msdoor.mtx		-0.23	1.05
+/home/public/DATA_TEST/thermal2/thermal2.mtx		0	1.3
+/home/public/DATA_TEST/ecology2/ecology2.mtx		0.43	1.45
+/home/public/DATA_TEST/parabolic_fem/parabolic_fem.mtx		0	1.2
+/home/public/DATA_TEST/G2_circuit/G2_circuit.mtx		-0.21	1.25
+/home/public/DATA_TEST/s3dkt3m2/s3dkt3m2.mtx		0.5	1.3
+/home/public/DATA_TEST/s3dkq4m2/s3dkq4m2.mtx		0	1.05
+/home/public/DATA_TEST/raefsky4/raefsky4.mtx		0	1.15
+/home/public/DATA_TEST/af_shell4/af_shell4.mtx		0	1.2
+/home/public/DATA_TEST/af_shell3/af_shell3.mtx		0	1.15
+/home/public/DATA_TEST/af_shell8/af_shell8.mtx		0	1.05
+/home/public/DATA_TEST/af_shell7/af_shell7.mtx		0	1.2
+/home/public/DATA_TEST/apache1/apache1.mtx		0	1.15
+/home/public/DATA_TEST/ship_001/ship_001.mtx		-0.22	1.05
+/home/public/DATA_TEST/cant/cant.mtx		0	1.1
+/home/public/DATA_TEST/cvxbqp1/cvxbqp1.mtx		0	1.15
+/home/public/DATA_TEST/af_1_k101/af_1_k101.mtx		0	1.15
+/home/public/DATA_TEST/af_2_k101/af_2_k101.mtx		0	1.1
+/home/public/DATA_TEST/smt/smt.mtx		0	1.1
+/home/public/DATA_TEST/pdb1HYS/pdb1HYS.mtx		0	1.2
+/home/public/DATA_TEST/inline_1/inline_1.mtx		0	1.15
+/home/public/DATA_TEST/qa8fm/qa8fm.mtx		-0.26	1.1
+/home/public/DATA_TEST/G3_circuit/G3_circuit.mtx		0	1.25
+/home/public/DATA_TEST/apache2/apache2.mtx		0	1.2
+/home/public/DATA_TEST/cfd2/cfd2.mtx		0	1.15
+/home/public/DATA_TEST/ship_003/ship_003.mtx		0	1.1
+/home/public/DATA_TEST/shipsec8/shipsec8.mtx		0	1.15
+/home/public/DATA_TEST/nd3k/nd3k.mtx		0	1.15
+/home/public/DATA_TEST/boneS01/boneS01.mtx		0	1.2
+/home/public/DATA_TEST/offshore/offshore.mtx		0	1.15
+/home/public/DATA_TEST/2cubes_sphere/2cubes_sphere.mtx		0	1.1
+/home/public/DATA_TEST/nd6k/nd6k.mtx		0	1.1
+/home/public/DATA_TEST/consph/consph.mtx		0	1.1
+/home/public/DATA_TEST/nd12k/nd12k.mtx		0	1.1
+/home/public/DATA_TEST/nd24k/nd24k.mtx		0	1.1
+/home/public/DATA_TEST/Muu/Muu.mtx		-0.16	1.5
+/home/public/DATA_TEST/plbuckle/plbuckle.mtx		-0.17	1.25
+/home/public/DATA_TEST/ex3/ex3.mtx		-0.18	1.3
+/home/public/DATA_TEST/nos3/nos3.mtx		-0.16	1.25
+/home/public/DATA_TEST/bcsstk11/bcsstk11.mtx		0	1.35
+/home/public/DATA_TEST/bcsstk12/bcsstk12.mtx		-0.13	1.3
+/home/public/DATA_TEST/plat1919/plat1919.mtx		0	1.4
+/home/public/DATA_TEST/ex15/ex15.mtx		-0.29	1.25
+/home/public/DATA_TEST/nos7/nos7.mtx		-0.11	1.3
+/home/public/DATA_TEST/bcsstk08/bcsstk08.mtx		-0.19	1.2
+/home/public/DATA_TEST/nasa1824/nasa1824.mtx		-0.33	1.05
+/home/public/DATA_TEST/t2dah_e/t2dah_e.mtx		0	1.25
+/home/public/DATA_TEST/Kuu/Kuu.mtx		0.07	1.35
+/home/public/DATA_TEST/bcsstk34/bcsstk34.mtx		0	1.25
+/home/public/DATA_TEST/minsurfo/minsurfo.mtx		0.18	1.4
+/home/public/DATA_TEST/wathen100/wathen100.mtx		-0.2	1.15
+/home/public/DATA_TEST/thermomech_TC/thermomech_TC.mtx		-0.25	1.2
+/home/public/DATA_TEST/wathen120/wathen120.mtx		0.11	1.35
+/home/public/DATA_TEST/s1rmt3m1/s1rmt3m1.mtx		-0.2	1.25
+/home/public/DATA_TEST/s3rmt3m1/s3rmt3m1.mtx		-0.01	1.25
+/home/public/DATA_TEST/s2rmt3m1/s2rmt3m1.mtx		-0.06	1.2
+/home/public/DATA_TEST/bcsstk25/bcsstk25.mtx		-0.26	1.2
+/home/public/DATA_TEST/bcsstk13/bcsstk13.mtx		-0.14	1.2
+/home/public/DATA_TEST/Pres_Poisson/Pres_Poisson.mtx		-0.11	1.2
+/home/public/DATA_TEST/cbuckle/cbuckle.mtx		-0.06	1.2
+/home/public/DATA_TEST/crystm02/crystm02.mtx		0.13	1.35
+/home/public/DATA_TEST/crystm03/crystm03.mtx		0	1.25
+/home/public/DATA_TEST/nasasrb/nasasrb.mtx		-0.18	1.05
+/home/public/DATA_TEST/oilpan/oilpan.mtx		0	1.25
+/home/public/DATA_TEST/BenElechi1/BenElechi1.mtx		0	1.2
+/home/public/DATA_TEST/tmt_sym/tmt_sym.mtx		-0.37	1.1
+/home/public/DATA_TEST/ct20stif/ct20stif.mtx		0	1.15
+/home/public/DATA_TEST/m_t1/m_t1.mtx		0.2	1.05
+/home/public/DATA_TEST/pwtk/pwtk.mtx		0	1.2
+/home/public/DATA_TEST/af_4_k101/af_4_k101.mtx		0	1.2
+/home/public/DATA_TEST/af_3_k101/af_3_k101.mtx		-0.2	1.05
+/home/public/DATA_TEST/af_5_k101/af_5_k101.mtx		-0.18	1.05
+/home/public/DATA_TEST/af_0_k101/af_0_k101.mtx		-0.2	1.05
+/home/public/DATA_TEST/shipsec1/shipsec1.mtx		-0.15	1.05
+/home/public/DATA_TEST/cfd1/cfd1.mtx		0	1.1
+/home/public/DATA_TEST/shipsec5/shipsec5.mtx		-0.16	1.05
+/home/public/DATA_TEST/thread/thread.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_5000_0.005_0.4_1.mtx		0.05	1.25
+/home/public/GEN_CLEAN/mat_5000_0.005_0.4_2.mtx		-0.46	1.35
+/home/public/GEN_CLEAN/mat_5000_0.005_0.8_2.mtx		-0.46	1.05
+/home/public/GEN_CLEAN/mat_5000_0.001_0.8_1.mtx		-0.02	1.5
+/home/public/GEN_CLEAN/mat_5000_0.001_0.8_2.mtx		-0.15	1.1
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.4_1.mtx		0.01	1.4
+/home/public/GEN_CLEAN/mat_6000_0.005_0.8_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_6000_0.001_0.4_2.mtx		-0.23	1.1
+/home/public/GEN_CLEAN/mat_6000_0.001_0.8_1.mtx		0.01	1.5
+/home/public/GEN_CLEAN/mat_6000_0.001_0.8_2.mtx		0.17	1.2
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.4_1.mtx		-0.01	1.15
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.4_2.mtx		0	1.25
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.8_2.mtx		-0.1	1.3
+/home/public/GEN_CLEAN/mat_7000_0.005_0.4_2.mtx		-0.48	1.1
+/home/public/GEN_CLEAN/mat_7000_0.005_0.8_1.mtx		-0.21	1.1
+/home/public/GEN_CLEAN/mat_7000_0.005_0.8_2.mtx		0.46	1.5
+/home/public/GEN_CLEAN/mat_7000_0.001_0.4_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.4_2.mtx		-0.16	1.2
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.8_1.mtx		0	1.25
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.8_2.mtx		-0.32	1.15
+/home/public/GEN_CLEAN/mat_8000_0.005_0.4_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_8000_0.005_0.4_2.mtx		-0.21	1.25
+/home/public/GEN_CLEAN/mat_8000_0.005_0.8_1.mtx		-0.14	1.1
+/home/public/GEN_CLEAN/mat_8000_0.005_0.8_2.mtx		0.22	1.4
+/home/public/GEN_CLEAN/mat_8000_0.001_0.4_2.mtx		-0.51	1.05
+/home/public/GEN_CLEAN/mat_8000_0.001_0.8_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.4_2.mtx		-0.06	1.15
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.8_2.mtx		-0.08	1.2
+/home/public/GEN_CLEAN/mat_9000_0.005_0.4_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_9000_0.005_0.4_2.mtx		-0.38	1.45
+/home/public/GEN_CLEAN/mat_9000_0.005_0.8_1.mtx		-0.19	1.1
+/home/public/GEN_CLEAN/mat_9000_0.001_0.4_1.mtx		-0.01	1.45
+/home/public/GEN_CLEAN/mat_9000_0.001_0.4_2.mtx		-0.29	1.1
+/home/public/GEN_CLEAN/mat_9000_0.001_0.8_2.mtx		-0.51	1.1
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.8_1.mtx		-0.01	1.45
+/home/public/GEN_CLEAN/mat_10000_0.005_0.4_1.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.4_2.mtx		-0.18	1.45
+/home/public/GEN_CLEAN/mat_10000_0.005_0.8_2.mtx		-0.35	1.4
+/home/public/GEN_CLEAN/mat_10000_0.001_0.4_1.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_10000_0.001_0.4_2.mtx		-0.52	1.05
+/home/public/GEN_CLEAN/mat_10000_0.001_0.8_1.mtx		0.02	1.2
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.4_1.mtx		-0.02	1.2
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.4_2.mtx		-0.14	1.1
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.8_1.mtx		0.02	1.05
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.8_2.mtx		-0.27	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.4_1.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.4_2.mtx		-0.16	1.25
+/home/public/GEN_CLEAN/mat_11000_0.005_0.8_2.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_11000_0.001_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.001_0.8_1.mtx		0.06	1.05
+/home/public/GEN_CLEAN/mat_11000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.8_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_12000_0.005_0.4_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_12000_0.005_0.4_2.mtx		-0.16	1.45
+/home/public/GEN_CLEAN/mat_12000_0.005_0.8_1.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_12000_0.005_0.8_2.mtx		-0.14	1.05
+/home/public/GEN_CLEAN/mat_12000_0.001_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_12000_0.001_0.4_2.mtx		-0.46	1.05
+/home/public/GEN_CLEAN/mat_12000_0.001_0.8_1.mtx		0.03	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.4_1.mtx		0.02	1.3
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.8_2.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.8_1.mtx		-0.28	1.1
+/home/public/GEN_CLEAN/mat_13000_0.005_0.8_2.mtx		-0.14	1.15
+/home/public/GEN_CLEAN/mat_13000_0.001_0.4_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_13000_0.001_0.8_1.mtx		0.03	1.3
+/home/public/GEN_CLEAN/mat_13000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.4_2.mtx		0.12	1.25
+/home/public/GEN_CLEAN/mat_14000_0.005_0.8_2.mtx		-0.27	1.2
+/home/public/GEN_CLEAN/mat_14000_0.001_0.4_2.mtx		-0.45	1.05
+/home/public/GEN_CLEAN/mat_14000_0.001_0.8_1.mtx		0.16	1.1
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.4_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.4_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.8_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_15000_0.005_0.8_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_15000_0.005_0.8_2.mtx		0.18	1.45
+/home/public/GEN_CLEAN/mat_15000_0.001_0.4_1.mtx		-0.06	1.15
+/home/public/GEN_CLEAN/mat_15000_0.001_0.8_1.mtx		0.39	1.25
+/home/public/GEN_CLEAN/mat_15000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.4_1.mtx		0.01	1.15
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.8_1.mtx		0.01	1.15
+/home/public/GEN_CLEAN/mat_16000_0.005_0.4_2.mtx		0	1.25
+/home/public/GEN_CLEAN/mat_16000_0.005_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.8_2.mtx		-0.15	1.5
+/home/public/GEN_CLEAN/mat_16000_0.001_0.4_1.mtx		0.09	1.1
+/home/public/GEN_CLEAN/mat_16000_0.001_0.8_1.mtx		-0.08	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.4_1.mtx		0	1.4
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.4_2.mtx		-0.46	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.001_0.4_1.mtx		0.39	1.05
+/home/public/GEN_CLEAN/mat_17000_0.001_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.001_0.8_1.mtx		0.23	1.1
+/home/public/GEN_CLEAN/mat_17000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.4_1.mtx		0.02	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.4_2.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.8_1.mtx		-0.02	1.15
+/home/public/GEN_CLEAN/mat_18000_0.005_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.8_1.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.4_1.mtx		0.11	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.4_2.mtx		-0.35	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.8_1.mtx		0.23	1.15
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.8_1.mtx		0.02	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.8_1.mtx		-0.37	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.4_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_19000_0.001_0.4_2.mtx		-0.5	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.4_1.mtx		0.06	1.25
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.4_2.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.8_1.mtx		0.08	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.8_2.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.8_1.mtx		-0.59	1.1
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.4_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.8_2.mtx		-0.4	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0001_0.4_1.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_25000_0.001_0.8_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_25000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_25000_0.0005_0.4_2.mtx		-0.31	1.05
+/home/public/GEN_CLEAN/mat_25000_0.0005_0.8_1.mtx		0.06	1.05
+/home/public/GEN_CLEAN/mat_25000_0.0001_0.4_2.mtx		0.04	1.2
+/home/public/GEN_CLEAN/mat_30000_0.001_0.8_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_30000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_30000_0.0005_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_30000_0.0005_0.8_1.mtx		-0.3	1.05
+/home/public/GEN_CLEAN/mat_30000_0.0005_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_30000_0.0001_0.8_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_30000_0.0001_0.8_2.mtx		-0.1	1.1
+/home/public/GEN_CLEAN/mat_35000_0.0005_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_35000_0.0005_0.4_2.mtx		-0.11	1.05
+/home/public/GEN_CLEAN/mat_35000_0.0005_0.8_2.mtx		-0.1	1.05
+/home/public/GEN_CLEAN/mat_35000_0.0001_0.4_1.mtx		-0.01	1.05
+/home/public/GEN_CLEAN/mat_35000_0.0001_0.8_2.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_40000_0.001_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_40000_0.001_0.8_2.mtx		0.12	1.4
+/home/public/GEN_CLEAN/mat_40000_0.0005_0.4_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_40000_0.0005_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_40000_0.0001_0.8_1.mtx		-0.01	1.2
+/home/public/GEN_CLEAN/mat_40000_0.0001_0.8_2.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_45000_0.001_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.6_1.mtx		0.13	1.25
+/home/public/GEN_CLEAN/mat_5000_0.005_0.6_2.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_5000_0.001_0.6_1.mtx		-0.01	1.5
+/home/public/GEN_CLEAN/mat_5000_0.001_0.6_2.mtx		-0.16	1.05
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.6_1.mtx		0.01	1.25
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.6_2.mtx		0.05	1.5
+/home/public/GEN_CLEAN/mat_6000_0.005_0.6_1.mtx		-0.1	1.15
+/home/public/GEN_CLEAN/mat_6000_0.005_0.6_2.mtx		0.44	1.5
+/home/public/GEN_CLEAN/mat_6000_0.001_0.6_2.mtx		-0.46	1.1
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.6_1.mtx		-0.01	1.25
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.6_2.mtx		-0.06	1.15
+/home/public/GEN_CLEAN/mat_7000_0.005_0.6_1.mtx		-0.09	1.1
+/home/public/GEN_CLEAN/mat_7000_0.005_0.6_2.mtx		-0.23	1.25
+/home/public/GEN_CLEAN/mat_7000_0.001_0.6_1.mtx		-0.01	1.4
+/home/public/GEN_CLEAN/mat_7000_0.001_0.6_2.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.6_2.mtx		-0.32	1.1
+/home/public/GEN_CLEAN/mat_8000_0.005_0.6_1.mtx		0.14	1.2
+/home/public/GEN_CLEAN/mat_8000_0.005_0.6_2.mtx		-0.42	1.35
+/home/public/GEN_CLEAN/mat_8000_0.001_0.6_1.mtx		-0.03	1.2
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.6_2.mtx		-0.11	1.05
+/home/public/GEN_CLEAN/mat_9000_0.005_0.6_1.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_9000_0.005_0.6_2.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_9000_0.001_0.6_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_9000_0.001_0.6_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.6_2.mtx		-0.14	1.15
+/home/public/GEN_CLEAN/mat_10000_0.005_0.6_2.mtx		-0.34	1.2
+/home/public/GEN_CLEAN/mat_10000_0.001_0.6_1.mtx		-0.02	1.1
+/home/public/GEN_CLEAN/mat_10000_0.001_0.6_2.mtx		-0.47	1.1
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.6_2.mtx		-0.29	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.6_1.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.6_2.mtx		-0.33	1.15
+/home/public/GEN_CLEAN/mat_11000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.6_1.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_12000_0.005_0.6_1.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_12000_0.001_0.6_1.mtx		0.04	1.2
+/home/public/GEN_CLEAN/mat_12000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.6_1.mtx		0.03	1.3
+/home/public/GEN_CLEAN/mat_13000_0.005_0.6_1.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.6_2.mtx		0.25	1.5
+/home/public/GEN_CLEAN/mat_13000_0.001_0.6_1.mtx		0.28	1.2
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.6_2.mtx		-0.26	1.1
+/home/public/GEN_CLEAN/mat_14000_0.005_0.6_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_14000_0.005_0.6_2.mtx		0.21	1.35
+/home/public/GEN_CLEAN/mat_14000_0.001_0.6_1.mtx		0.11	1.05
+/home/public/GEN_CLEAN/mat_14000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.6_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_15000_0.005_0.6_2.mtx		-0.18	1.05
+/home/public/GEN_CLEAN/mat_15000_0.001_0.6_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_15000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.6_1.mtx		0.03	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.6_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.6_1.mtx		0.13	1.1
+/home/public/GEN_CLEAN/mat_16000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.6_2.mtx		-0.47	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.6_2.mtx		-0.27	1.15
+/home/public/GEN_CLEAN/mat_17000_0.001_0.6_1.mtx		0.4	1.2
+/home/public/GEN_CLEAN/mat_17000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.6_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.6_1.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.6_2.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_18000_0.001_0.6_1.mtx		0.15	1.2
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.6_1.mtx		-0.06	1.35
+/home/public/GEN_CLEAN/mat_19000_0.005_0.6_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.6_2.mtx		-0.26	1.3
+/home/public/GEN_CLEAN/mat_19000_0.001_0.6_1.mtx		0.21	1.1
+/home/public/GEN_CLEAN/mat_19000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.6_1.mtx		0.04	1.4
+/home/public/GEN_CLEAN/mat_20000_0.005_0.6_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.6_1.mtx		-0.37	1.15
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.5_2.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.5_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.5_2.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_6000_0.005_0.5_1.mtx		-0.12	1.15
+/home/public/GEN_CLEAN/mat_6000_0.005_0.5_2.mtx		-0.22	1.45
+/home/public/GEN_CLEAN/mat_6000_0.001_0.5_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.5_1.mtx		0.01	1.4
+/home/public/GEN_CLEAN/mat_7000_0.005_0.5_2.mtx		-0.24	1.2
+/home/public/GEN_CLEAN/mat_7000_0.001_0.5_1.mtx		0.04	1.5
+/home/public/GEN_CLEAN/mat_7000_0.001_0.5_2.mtx		-0.39	1.05
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.5_2.mtx		-0.15	1.25
+/home/public/GEN_CLEAN/mat_8000_0.005_0.5_2.mtx		0.23	1.35
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.5_2.mtx		-0.08	1.05
+/home/public/GEN_CLEAN/mat_9000_0.005_0.5_1.mtx		-0.18	1.1
+/home/public/GEN_CLEAN/mat_9000_0.005_0.5_2.mtx		0.2	1.45
+/home/public/GEN_CLEAN/mat_9000_0.001_0.5_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.5_2.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.5_1.mtx		-0.22	1.1
+/home/public/GEN_CLEAN/mat_10000_0.005_0.5_2.mtx		0.17	1.3
+/home/public/GEN_CLEAN/mat_10000_0.001_0.5_2.mtx		-0.49	1.1
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.5_1.mtx		0.01	1.5
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.5_2.mtx		-0.33	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.5_1.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.5_2.mtx		-0.17	1.35
+/home/public/GEN_CLEAN/mat_11000_0.001_0.5_1.mtx		0.43	1.4
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.5_1.mtx		-0.02	1.5
+/home/public/GEN_CLEAN/mat_12000_0.001_0.5_1.mtx		0	1.4
+/home/public/GEN_CLEAN/mat_12000_0.001_0.5_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.5_2.mtx		-0.46	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.5_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_13000_0.001_0.5_1.mtx		0.12	1.1
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.5_1.mtx		-0.01	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.5_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.001_0.5_1.mtx		0.11	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.5_1.mtx		0.03	1.45
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.5_1.mtx		0.01	1.2
+/home/public/GEN_CLEAN/mat_16000_0.005_0.5_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.5_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_16000_0.001_0.5_2.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.5_1.mtx		-0.12	1.45
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.5_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.5_2.mtx		-0.35	1.4
+/home/public/GEN_CLEAN/mat_17000_0.001_0.5_1.mtx		0.4	1.15
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.5_1.mtx		-0.04	1.35
+/home/public/GEN_CLEAN/mat_18000_0.005_0.5_2.mtx		0.23	1.5
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.5_1.mtx		-0.02	1.45
+/home/public/GEN_CLEAN/mat_19000_0.005_0.5_2.mtx		0.21	1.25
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.5_1.mtx		0.06	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.5_2.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.5_1.mtx		-0.17	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.5_1.mtx		-0.56	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.5_2.mtx		-0.27	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.7_1.mtx		0.04	1.25
+/home/public/GEN_CLEAN/mat_5000_0.005_0.7_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_5000_0.001_0.7_2.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.7_1.mtx		-0.01	1.35
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.7_2.mtx		0.01	1.45
+/home/public/GEN_CLEAN/mat_6000_0.005_0.7_2.mtx		0.22	1.35
+/home/public/GEN_CLEAN/mat_6000_0.001_0.7_1.mtx		0.01	1.05
+/home/public/GEN_CLEAN/mat_6000_0.001_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.7_2.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_7000_0.005_0.7_1.mtx		-0.08	1.15
+/home/public/GEN_CLEAN/mat_7000_0.005_0.7_2.mtx		0.43	1.5
+/home/public/GEN_CLEAN/mat_7000_0.001_0.7_2.mtx		-0.42	1.05
+/home/public/GEN_CLEAN/mat_8000_0.005_0.7_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_8000_0.005_0.7_2.mtx		0.2	1.45
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.7_2.mtx		-0.1	1.25
+/home/public/GEN_CLEAN/mat_9000_0.005_0.7_2.mtx		-0.4	1.05
+/home/public/GEN_CLEAN/mat_9000_0.001_0.7_1.mtx		-0.05	1.25
+/home/public/GEN_CLEAN/mat_9000_0.001_0.7_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.7_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_10000_0.005_0.7_2.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_10000_0.001_0.7_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.7_1.mtx		-0.01	1.25
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.7_2.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_11000_0.005_0.7_2.mtx		0.3	1.3
+/home/public/GEN_CLEAN/mat_11000_0.001_0.7_1.mtx		0.03	1.05
+/home/public/GEN_CLEAN/mat_11000_0.001_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.7_1.mtx		0.01	1.4
+/home/public/GEN_CLEAN/mat_12000_0.005_0.7_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_12000_0.005_0.7_2.mtx		-0.29	1.25
+/home/public/GEN_CLEAN/mat_12000_0.001_0.7_1.mtx		0.04	1.05
+/home/public/GEN_CLEAN/mat_12000_0.001_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.7_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_14000_0.005_0.7_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.7_2.mtx		0.2	1.5
+/home/public/GEN_CLEAN/mat_14000_0.001_0.7_1.mtx		0.31	1.1
+/home/public/GEN_CLEAN/mat_14000_0.001_0.7_2.mtx		-0.43	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.7_1.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.7_2.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_15000_0.001_0.7_1.mtx		0.12	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.7_1.mtx		0.1	1.1
+/home/public/GEN_CLEAN/mat_16000_0.005_0.7_2.mtx		-0.17	1.15
+/home/public/GEN_CLEAN/mat_16000_0.001_0.7_1.mtx		0.08	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.7_1.mtx		0.17	1.4
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.7_2.mtx		-0.51	1.05
+/home/public/GEN_CLEAN/mat_17000_0.001_0.7_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_17000_0.001_0.7_2.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.7_2.mtx		-0.52	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.7_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_18000_0.005_0.7_2.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_18000_0.001_0.7_1.mtx		-0.14	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.7_2.mtx		-0.44	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.7_1.mtx		-0.11	1.1
+/home/public/GEN_CLEAN/mat_19000_0.001_0.7_2.mtx		-0.34	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.7_1.mtx		-0.03	1.15
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.7_1.mtx		-0.49	1.1
+/home/public/GEN_CLEAN/mat_20000_0.001_0.7_2.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.7_1.mtx		0.06	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.7_2.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.45_1.mtx		0.17	1.2
+/home/public/GEN_CLEAN/mat_5000_0.005_0.45_2.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_5000_0.001_0.45_1.mtx		0.01	1.4
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.45_2.mtx		-0.03	1.5
+/home/public/GEN_CLEAN/mat_6000_0.005_0.45_2.mtx		-0.52	1.5
+/home/public/GEN_CLEAN/mat_6000_0.001_0.45_1.mtx		0.03	1.4
+/home/public/GEN_CLEAN/mat_6000_0.001_0.45_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.45_1.mtx		-0.01	1.45
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.45_2.mtx		-0.21	1.3
+/home/public/GEN_CLEAN/mat_7000_0.005_0.45_1.mtx		-0.18	1.1
+/home/public/GEN_CLEAN/mat_7000_0.005_0.45_2.mtx		-0.47	1.3
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.45_2.mtx		-0.32	1.15
+/home/public/GEN_CLEAN/mat_8000_0.005_0.45_1.mtx		-0.14	1.05
+/home/public/GEN_CLEAN/mat_8000_0.005_0.45_2.mtx		-0.42	1.15
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.45_2.mtx		-0.15	1.2
+/home/public/GEN_CLEAN/mat_9000_0.005_0.45_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_9000_0.005_0.45_2.mtx		-0.2	1.15
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.45_2.mtx		-0.3	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.45_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_10000_0.005_0.45_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_10000_0.001_0.45_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.45_1.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.45_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.45_1.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.45_2.mtx		-0.32	1.4
+/home/public/GEN_CLEAN/mat_11000_0.001_0.45_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.001_0.45_2.mtx		-0.27	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.45_1.mtx		0.01	1.5
+/home/public/GEN_CLEAN/mat_12000_0.005_0.45_2.mtx		-0.29	1.25
+/home/public/GEN_CLEAN/mat_12000_0.001_0.45_1.mtx		0.05	1.05
+/home/public/GEN_CLEAN/mat_12000_0.001_0.45_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.45_2.mtx		-0.27	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.45_2.mtx		-0.48	1.3
+/home/public/GEN_CLEAN/mat_13000_0.001_0.45_1.mtx		0.07	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.45_2.mtx		-0.54	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.45_2.mtx		0.24	1.35
+/home/public/GEN_CLEAN/mat_14000_0.001_0.45_1.mtx		-0.15	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.45_1.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.45_2.mtx		-0.48	1.25
+/home/public/GEN_CLEAN/mat_15000_0.001_0.45_1.mtx		0.14	1.2
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.45_1.mtx		0.01	1.3
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.45_2.mtx		-0.52	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.45_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_16000_0.005_0.45_2.mtx		-0.31	1.25
+/home/public/GEN_CLEAN/mat_16000_0.001_0.45_1.mtx		-0.1	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.45_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.45_2.mtx		-0.49	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.45_1.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.45_2.mtx		-0.27	1.25
+/home/public/GEN_CLEAN/mat_17000_0.001_0.45_1.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_17000_0.001_0.45_2.mtx		-0.36	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.45_2.mtx		-0.5	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.45_1.mtx		-0.41	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.45_2.mtx		-0.13	1.15
+/home/public/GEN_CLEAN/mat_19000_0.005_0.45_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.45_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.45_2.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.45_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.45_2.mtx		-0.15	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.45_1.mtx		0.07	1.3
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.45_2.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.55_1.mtx		0.09	1.25
+/home/public/GEN_CLEAN/mat_5000_0.005_0.55_2.mtx		-0.25	1.3
+/home/public/GEN_CLEAN/mat_5000_0.001_0.55_2.mtx		-0.1	1.05
+/home/public/GEN_CLEAN/mat_6000_0.005_0.55_2.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_6000_0.001_0.55_2.mtx		-0.11	1.1
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.55_1.mtx		0.01	1.25
+/home/public/GEN_CLEAN/mat_7000_0.005_0.55_2.mtx		0.24	1.3
+/home/public/GEN_CLEAN/mat_7000_0.001_0.55_1.mtx		0.02	1.5
+/home/public/GEN_CLEAN/mat_7000_0.001_0.55_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.55_2.mtx		-0.06	1.2
+/home/public/GEN_CLEAN/mat_8000_0.005_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_8000_0.001_0.55_2.mtx		-0.46	1.05
+/home/public/GEN_CLEAN/mat_9000_0.005_0.55_2.mtx		-0.39	1.1
+/home/public/GEN_CLEAN/mat_10000_0.005_0.55_1.mtx		-0.39	1.05
+/home/public/GEN_CLEAN/mat_10000_0.001_0.55_1.mtx		-0.03	1.3
+/home/public/GEN_CLEAN/mat_10000_0.001_0.55_2.mtx		-0.24	1.1
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.55_1.mtx		0.01	1.15
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.55_2.mtx		-0.31	1.15
+/home/public/GEN_CLEAN/mat_11000_0.001_0.55_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_11000_0.001_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.55_1.mtx		-0.01	1.2
+/home/public/GEN_CLEAN/mat_12000_0.005_0.55_2.mtx		-0.28	1.35
+/home/public/GEN_CLEAN/mat_12000_0.001_0.55_1.mtx		0.12	1.1
+/home/public/GEN_CLEAN/mat_13000_0.001_0.55_1.mtx		-0.12	1.2
+/home/public/GEN_CLEAN/mat_13000_0.001_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.55_2.mtx		-0.2	1.15
+/home/public/GEN_CLEAN/mat_14000_0.001_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.55_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_15000_0.001_0.55_1.mtx		-0.1	1.1
+/home/public/GEN_CLEAN/mat_15000_0.001_0.55_2.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.55_1.mtx		-0.01	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.55_2.mtx		-0.27	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.55_1.mtx		-0.22	1.1
+/home/public/GEN_CLEAN/mat_16000_0.001_0.55_1.mtx		-0.45	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.55_2.mtx		-0.35	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.55_1.mtx		-0.03	1.4
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.55_1.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.55_2.mtx		-0.17	1.1
+/home/public/GEN_CLEAN/mat_17000_0.001_0.55_1.mtx		0.39	1.15
+/home/public/GEN_CLEAN/mat_18000_0.005_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.55_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.55_1.mtx		-0.13	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.55_1.mtx		0.05	1.2
+/home/public/GEN_CLEAN/mat_19000_0.005_0.55_2.mtx		0.26	1.3
+/home/public/GEN_CLEAN/mat_19000_0.001_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.55_2.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.55_1.mtx		0.11	1.3
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.55_2.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.55_1.mtx		-0.07	1.15
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.55_2.mtx		-0.43	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.65_2.mtx		-0.43	1.4
+/home/public/GEN_CLEAN/mat_5000_0.001_0.65_2.mtx		-0.12	1.05
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.65_2.mtx		-0.02	1.5
+/home/public/GEN_CLEAN/mat_6000_0.005_0.65_1.mtx		-0.1	1.2
+/home/public/GEN_CLEAN/mat_6000_0.005_0.65_2.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.65_2.mtx		-0.11	1.3
+/home/public/GEN_CLEAN/mat_7000_0.005_0.65_1.mtx		-0.23	1.1
+/home/public/GEN_CLEAN/mat_7000_0.005_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_7000_0.001_0.65_1.mtx		-0.01	1.3
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.65_1.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_8000_0.005_0.65_1.mtx		-0.48	1.1
+/home/public/GEN_CLEAN/mat_8000_0.001_0.65_1.mtx		-0.02	1.5
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.65_1.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.65_2.mtx		-0.39	1.05
+/home/public/GEN_CLEAN/mat_9000_0.005_0.65_1.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_9000_0.005_0.65_2.mtx		-0.44	1.4
+/home/public/GEN_CLEAN/mat_9000_0.001_0.65_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_9000_0.001_0.65_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.65_1.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.65_2.mtx		-0.17	1.05
+/home/public/GEN_CLEAN/mat_10000_0.001_0.65_1.mtx		-0.01	1.3
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.65_1.mtx		0.01	1.2
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.65_2.mtx		-0.17	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.65_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.001_0.65_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.001_0.65_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_12000_0.005_0.65_1.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_12000_0.005_0.65_2.mtx		-0.28	1.15
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.65_1.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_13000_0.005_0.65_1.mtx		-0.27	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.65_2.mtx		-0.26	1.1
+/home/public/GEN_CLEAN/mat_14000_0.001_0.65_1.mtx		-0.12	1.1
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.65_2.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.65_2.mtx		-0.17	1.25
+/home/public/GEN_CLEAN/mat_15000_0.001_0.65_1.mtx		0.09	1.2
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.65_1.mtx		-0.02	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.65_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.65_1.mtx		0.37	1.25
+/home/public/GEN_CLEAN/mat_16000_0.001_0.65_2.mtx		-0.4	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.65_1.mtx		-0.01	1.3
+/home/public/GEN_CLEAN/mat_17000_0.001_0.65_1.mtx		0.34	1.25
+/home/public/GEN_CLEAN/mat_17000_0.001_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.65_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.65_2.mtx		0.13	1.2
+/home/public/GEN_CLEAN/mat_18000_0.001_0.65_1.mtx		-0.29	1.15
+/home/public/GEN_CLEAN/mat_18000_0.001_0.65_2.mtx		-0.17	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.65_1.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_19000_0.001_0.65_1.mtx		0.31	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.65_1.mtx		0.04	1.3
+/home/public/GEN_CLEAN/mat_20000_0.001_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.65_1.mtx		0.05	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.75_2.mtx		-0.23	1.5
+/home/public/GEN_CLEAN/mat_5000_0.001_0.75_2.mtx		-0.24	1.15
+/home/public/GEN_CLEAN/mat_6000_0.005_0.75_1.mtx		0.06	1.2
+/home/public/GEN_CLEAN/mat_6000_0.005_0.75_2.mtx		-0.24	1.4
+/home/public/GEN_CLEAN/mat_6000_0.001_0.75_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.75_1.mtx		0.01	1.2
+/home/public/GEN_CLEAN/mat_7000_0.005_0.75_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_7000_0.005_0.75_2.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_7000_0.001_0.75_2.mtx		-0.21	1.1
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.75_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.75_2.mtx		-0.17	1.2
+/home/public/GEN_CLEAN/mat_8000_0.005_0.75_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_8000_0.001_0.75_1.mtx		0.06	1.2
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.75_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_9000_0.005_0.75_1.mtx		-0.52	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.75_2.mtx		-0.14	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.75_2.mtx		0.16	1.35
+/home/public/GEN_CLEAN/mat_10000_0.001_0.75_2.mtx		-0.55	1.5
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.75_1.mtx		0.03	1.45
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.75_2.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.75_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.75_2.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_11000_0.001_0.75_1.mtx		-0.03	1.45
+/home/public/GEN_CLEAN/mat_11000_0.001_0.75_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.75_1.mtx		-0.02	1.45
+/home/public/GEN_CLEAN/mat_12000_0.005_0.75_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_12000_0.005_0.75_2.mtx		-0.15	1.2
+/home/public/GEN_CLEAN/mat_12000_0.001_0.75_1.mtx		0.05	1.1
+/home/public/GEN_CLEAN/mat_12000_0.001_0.75_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.75_2.mtx		-0.25	1.1
+/home/public/GEN_CLEAN/mat_13000_0.001_0.75_1.mtx		-0.07	1.1
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.75_2.mtx		-0.5	1.05
+/home/public/GEN_CLEAN/mat_14000_0.001_0.75_1.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_14000_0.001_0.75_2.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.75_1.mtx		0.01	1.35
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.75_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.75_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_15000_0.001_0.75_1.mtx		0.19	1.15
+/home/public/GEN_CLEAN/mat_15000_0.001_0.75_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.75_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.75_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.75_1.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.75_2.mtx		-0.48	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.75_2.mtx		-0.17	1.35
+/home/public/GEN_CLEAN/mat_17000_0.001_0.75_1.mtx		-0.45	1.05
+/home/public/GEN_CLEAN/mat_17000_0.001_0.75_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.75_1.mtx		-0.04	1.35
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.75_2.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.75_2.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_19000_0.001_0.75_1.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.75_1.mtx		0.04	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.75_2.mtx		-0.44	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.75_2.mtx		-0.11	1.15
+/home/public/GEN_CLEAN/mat_20000_0.001_0.75_1.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_5000_0.001_0.4_1.mtx		-0.02	1.3
+/home/public/GEN_CLEAN/mat_5000_0.001_0.4_2.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.4_2.mtx		-0.08	1.4
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.8_1.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.8_2.mtx		0.01	1.45
+/home/public/GEN_CLEAN/mat_6000_0.005_0.4_1.mtx		-0.1	1.05
+/home/public/GEN_CLEAN/mat_6000_0.005_0.4_2.mtx		0.27	1.45
+/home/public/GEN_CLEAN/mat_6000_0.005_0.8_1.mtx		-0.14	1.15
+/home/public/GEN_CLEAN/mat_6000_0.001_0.4_1.mtx		0.06	1.25
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.8_1.mtx		0	1.4
+/home/public/GEN_CLEAN/mat_7000_0.005_0.4_1.mtx		-0.24	1.1
+/home/public/GEN_CLEAN/mat_7000_0.001_0.4_1.mtx		0.01	1.4
+/home/public/GEN_CLEAN/mat_7000_0.001_0.8_1.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_7000_0.001_0.8_2.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.4_1.mtx		-0.01	1.4
+/home/public/GEN_CLEAN/mat_8000_0.001_0.4_1.mtx		-0.09	1.45
+/home/public/GEN_CLEAN/mat_8000_0.001_0.8_1.mtx		-0.02	1.4
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.4_1.mtx		-0.02	1.45
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.8_1.mtx		-0.01	1.3
+/home/public/GEN_CLEAN/mat_9000_0.005_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_9000_0.001_0.8_1.mtx		-0.06	1.4
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.4_1.mtx		-0.03	1.5
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.4_2.mtx		-0.15	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.8_2.mtx		-0.12	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.8_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_10000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.8_1.mtx		-0.22	1.1
+/home/public/GEN_CLEAN/mat_11000_0.001_0.4_2.mtx		-0.27	1.1
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.4_1.mtx		-0.02	1.45
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.4_2.mtx		-0.17	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.8_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_12000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.4_2.mtx		-0.51	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.8_1.mtx		-0.06	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.4_2.mtx		-0.3	1.3
+/home/public/GEN_CLEAN/mat_13000_0.001_0.4_2.mtx		-0.47	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.4_1.mtx		0.01	1.2
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.4_2.mtx		-0.29	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.8_1.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.8_2.mtx		-0.29	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.001_0.4_1.mtx		-0.06	1.25
+/home/public/GEN_CLEAN/mat_14000_0.001_0.8_2.mtx		-0.45	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.8_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.4_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_15000_0.005_0.4_2.mtx		0.38	1.5
+/home/public/GEN_CLEAN/mat_15000_0.001_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.8_2.mtx		-0.54	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.4_1.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.8_1.mtx		0.02	1.1
+/home/public/GEN_CLEAN/mat_17000_0.005_0.4_1.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.4_2.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_17000_0.005_0.8_2.mtx		-0.33	1.3
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.8_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.8_2.mtx		-0.16	1.35
+/home/public/GEN_CLEAN/mat_18000_0.001_0.8_2.mtx		-0.18	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.4_1.mtx		-0.03	1.25
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.8_2.mtx		-0.47	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.4_2.mtx		0	1.4
+/home/public/GEN_CLEAN/mat_19000_0.005_0.8_2.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_19000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.4_1.mtx		0.24	1.15
+/home/public/GEN_CLEAN/mat_20000_0.001_0.4_2.mtx		-0.29	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.8_2.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.8_1.mtx		0.11	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0001_0.4_2.mtx		0.03	1.5
+/home/public/GEN_CLEAN/mat_20000_0.0001_0.8_1.mtx		0.01	1.25
+/home/public/GEN_CLEAN/mat_20000_0.0001_0.8_2.mtx		-0.04	1.5
+/home/public/GEN_CLEAN/mat_25000_0.001_0.4_1.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_25000_0.001_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_25000_0.0005_0.4_1.mtx		0.1	1.1
+/home/public/GEN_CLEAN/mat_25000_0.0005_0.8_2.mtx		-0.3	1.05
+/home/public/GEN_CLEAN/mat_25000_0.0001_0.4_1.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_25000_0.0001_0.8_1.mtx		0	1.25
+/home/public/GEN_CLEAN/mat_25000_0.0001_0.8_2.mtx		-0.14	1.2
+/home/public/GEN_CLEAN/mat_30000_0.001_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_30000_0.001_0.4_2.mtx		-0.16	1.2
+/home/public/GEN_CLEAN/mat_30000_0.0005_0.4_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_30000_0.0001_0.4_1.mtx		0.02	1.4
+/home/public/GEN_CLEAN/mat_30000_0.0001_0.4_2.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_35000_0.001_0.4_1.mtx		0.27	1.2
+/home/public/GEN_CLEAN/mat_35000_0.001_0.4_2.mtx		-0.16	1.35
+/home/public/GEN_CLEAN/mat_35000_0.001_0.8_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_35000_0.001_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_35000_0.0005_0.8_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_35000_0.0001_0.4_2.mtx		-0.48	1.05
+/home/public/GEN_CLEAN/mat_35000_0.0001_0.8_1.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_40000_0.001_0.4_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_40000_0.001_0.4_2.mtx		0	1.25
+/home/public/GEN_CLEAN/mat_40000_0.0005_0.4_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_40000_0.0005_0.8_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_40000_0.0001_0.4_1.mtx		-0.04	1.5
+/home/public/GEN_CLEAN/mat_40000_0.0001_0.4_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_6000_0.001_0.6_1.mtx		-0.02	1.5
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.6_1.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_8000_0.001_0.6_2.mtx		-0.58	1.05
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.6_1.mtx		-0.03	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.6_1.mtx		0.03	1.15
+/home/public/GEN_CLEAN/mat_10000_0.005_0.6_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_10000_0.0005_0.6_1.mtx		-0.01	1.5
+/home/public/GEN_CLEAN/mat_11000_0.001_0.6_1.mtx		0.07	1.35
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.6_2.mtx		-0.52	1.1
+/home/public/GEN_CLEAN/mat_12000_0.005_0.6_2.mtx		-0.31	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.6_2.mtx		-0.64	1.05
+/home/public/GEN_CLEAN/mat_13000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.6_1.mtx		0.03	1.2
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.6_2.mtx		-0.51	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.6_1.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.6_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.6_2.mtx		-0.16	1.3
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.6_1.mtx		0.01	1.3
+/home/public/GEN_CLEAN/mat_17000_0.005_0.6_1.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.6_1.mtx		-0.03	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.6_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.6_2.mtx		-0.45	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.6_2.mtx		-0.48	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.6_2.mtx		0.13	1.25
+/home/public/GEN_CLEAN/mat_20000_0.001_0.6_2.mtx		-0.31	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.6_1.mtx		0.15	1.1
+/home/public/GEN_CLEAN/mat_5000_0.005_0.5_1.mtx		-0.13	1.05
+/home/public/GEN_CLEAN/mat_5000_0.001_0.5_1.mtx		-0.04	1.3
+/home/public/GEN_CLEAN/mat_5000_0.001_0.5_2.mtx		-0.28	1.1
+/home/public/GEN_CLEAN/mat_6000_0.001_0.5_1.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.5_2.mtx		-0.07	1.2
+/home/public/GEN_CLEAN/mat_7000_0.005_0.5_1.mtx		0.1	1.15
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.5_1.mtx		-0.01	1.35
+/home/public/GEN_CLEAN/mat_8000_0.005_0.5_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_8000_0.001_0.5_1.mtx		0.02	1.25
+/home/public/GEN_CLEAN/mat_8000_0.001_0.5_2.mtx		-0.28	1.15
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.5_1.mtx		0.02	1.5
+/home/public/GEN_CLEAN/mat_9000_0.001_0.5_1.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.5_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_10000_0.001_0.5_1.mtx		-0.03	1.4
+/home/public/GEN_CLEAN/mat_11000_0.001_0.5_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.5_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_12000_0.005_0.5_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_12000_0.005_0.5_2.mtx		-0.34	1.45
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.5_1.mtx		0.07	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.5_1.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_13000_0.001_0.5_2.mtx		-0.51	1.5
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.5_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.5_2.mtx		-0.27	1.25
+/home/public/GEN_CLEAN/mat_14000_0.001_0.5_2.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.5_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.5_1.mtx		-0.5	1.1
+/home/public/GEN_CLEAN/mat_15000_0.005_0.5_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.001_0.5_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_15000_0.001_0.5_2.mtx		-0.42	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.5_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.5_2.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_17000_0.005_0.5_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.001_0.5_2.mtx		-0.18	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.5_2.mtx		-0.49	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.5_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.5_1.mtx		-0.41	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.5_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.5_2.mtx		-0.44	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.5_1.mtx		-0.36	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.5_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.5_2.mtx		-0.18	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.5_2.mtx		0.12	1.15
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.5_1.mtx		-0.32	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.5_2.mtx		-0.19	1.05
+/home/public/GEN_CLEAN/mat_5000_0.001_0.7_1.mtx		0.02	1.35
+/home/public/GEN_CLEAN/mat_6000_0.005_0.7_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.7_1.mtx		-0.01	1.35
+/home/public/GEN_CLEAN/mat_7000_0.001_0.7_1.mtx		-0.08	1.3
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.7_1.mtx		-0.01	1.35
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.7_2.mtx		-0.24	1.15
+/home/public/GEN_CLEAN/mat_8000_0.001_0.7_1.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_8000_0.001_0.7_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.7_1.mtx		0.02	1.5
+/home/public/GEN_CLEAN/mat_9000_0.005_0.7_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.7_1.mtx		0.02	1.4
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.7_2.mtx		-0.14	1.05
+/home/public/GEN_CLEAN/mat_10000_0.001_0.7_1.mtx		0.05	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.7_1.mtx		-0.32	1.05
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.7_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.7_1.mtx		0.06	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.7_2.mtx		-0.64	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.7_2.mtx		0.15	1.2
+/home/public/GEN_CLEAN/mat_13000_0.001_0.7_1.mtx		-0.08	1.15
+/home/public/GEN_CLEAN/mat_13000_0.001_0.7_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.7_1.mtx		-0.08	1.15
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.7_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.7_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_15000_0.001_0.7_2.mtx		-0.44	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.7_2.mtx		-0.52	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.7_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.7_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.7_2.mtx		0	1.25
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.7_1.mtx		0.06	1.45
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.7_1.mtx		-0.03	1.1
+/home/public/GEN_CLEAN/mat_19000_0.005_0.7_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.7_2.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_20000_0.005_0.7_1.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.7_2.mtx		-0.13	1.15
+/home/public/GEN_CLEAN/mat_5000_0.001_0.45_2.mtx		-0.37	1.05
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.45_1.mtx		-0.02	1.2
+/home/public/GEN_CLEAN/mat_6000_0.005_0.45_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_7000_0.001_0.45_1.mtx		0.03	1.3
+/home/public/GEN_CLEAN/mat_7000_0.001_0.45_2.mtx		-0.25	1.1
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.45_1.mtx		0.02	1.25
+/home/public/GEN_CLEAN/mat_8000_0.001_0.45_1.mtx		0.01	1.3
+/home/public/GEN_CLEAN/mat_8000_0.001_0.45_2.mtx		-0.32	1.05
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.45_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_9000_0.001_0.45_1.mtx		-0.07	1.5
+/home/public/GEN_CLEAN/mat_9000_0.001_0.45_2.mtx		-0.25	1.1
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.45_1.mtx		0.02	1.35
+/home/public/GEN_CLEAN/mat_10000_0.001_0.45_1.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.45_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_12000_0.005_0.45_1.mtx		-0.3	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.45_1.mtx		-0.04	1.35
+/home/public/GEN_CLEAN/mat_13000_0.005_0.45_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_13000_0.001_0.45_2.mtx		-0.5	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.45_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_14000_0.005_0.45_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.001_0.45_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.45_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.45_2.mtx		-0.31	1.05
+/home/public/GEN_CLEAN/mat_15000_0.001_0.45_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.45_1.mtx		0.02	1.5
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.45_1.mtx		-0.03	1.45
+/home/public/GEN_CLEAN/mat_18000_0.001_0.45_1.mtx		-0.19	1.2
+/home/public/GEN_CLEAN/mat_18000_0.001_0.45_2.mtx		-0.16	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.45_1.mtx		0.12	1.15
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.45_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.45_2.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.45_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.45_1.mtx		-0.1	1.3
+/home/public/GEN_CLEAN/mat_20000_0.005_0.45_2.mtx		-0.28	1.15
+/home/public/GEN_CLEAN/mat_20000_0.001_0.45_1.mtx		-0.23	1.1
+/home/public/GEN_CLEAN/mat_5000_0.001_0.55_1.mtx		-0.01	1.4
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.55_1.mtx		-0.02	1.35
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.55_2.mtx		-0.08	1.45
+/home/public/GEN_CLEAN/mat_6000_0.005_0.55_1.mtx		-0.09	1.15
+/home/public/GEN_CLEAN/mat_6000_0.001_0.55_1.mtx		-0.05	1.45
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.55_2.mtx		-0.04	1.25
+/home/public/GEN_CLEAN/mat_7000_0.005_0.55_1.mtx		-0.34	1.05
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.55_1.mtx		0.02	1.2
+/home/public/GEN_CLEAN/mat_8000_0.005_0.55_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_8000_0.001_0.55_1.mtx		0.06	1.3
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.55_1.mtx		0.02	1.2
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.55_2.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_9000_0.005_0.55_1.mtx		-0.24	1.1
+/home/public/GEN_CLEAN/mat_9000_0.001_0.55_1.mtx		0.19	1.15
+/home/public/GEN_CLEAN/mat_9000_0.001_0.55_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.55_1.mtx		-0.02	1.4
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.55_2.mtx		-0.38	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.55_2.mtx		-0.21	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.55_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_11000_0.005_0.55_2.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.55_2.mtx		-0.5	1.05
+/home/public/GEN_CLEAN/mat_12000_0.005_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_12000_0.001_0.55_2.mtx		-0.52	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.55_1.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.55_2.mtx		-0.56	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.55_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_13000_0.005_0.55_2.mtx		0.27	1.4
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.55_1.mtx		0.02	1.25
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.55_2.mtx		-0.5	1.1
+/home/public/GEN_CLEAN/mat_14000_0.001_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.55_1.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_15000_0.005_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.005_0.55_2.mtx		0.19	1.2
+/home/public/GEN_CLEAN/mat_16000_0.005_0.55_2.mtx		-0.19	1.3
+/home/public/GEN_CLEAN/mat_17000_0.001_0.55_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.55_1.mtx		0.06	1.4
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.55_2.mtx		-0.24	1.05
+/home/public/GEN_CLEAN/mat_18000_0.001_0.55_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.55_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.55_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.65_1.mtx		-0.15	1.2
+/home/public/GEN_CLEAN/mat_5000_0.001_0.65_1.mtx		-0.04	1.4
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.65_1.mtx		0.01	1.3
+/home/public/GEN_CLEAN/mat_6000_0.001_0.65_1.mtx		0.06	1.4
+/home/public/GEN_CLEAN/mat_6000_0.001_0.65_2.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.65_1.mtx		-0.02	1.35
+/home/public/GEN_CLEAN/mat_7000_0.001_0.65_2.mtx		-0.4	1.05
+/home/public/GEN_CLEAN/mat_7000_0.0005_0.65_2.mtx		-0.15	1.15
+/home/public/GEN_CLEAN/mat_8000_0.005_0.65_2.mtx		-0.48	1.05
+/home/public/GEN_CLEAN/mat_8000_0.001_0.65_2.mtx		-0.56	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.65_1.mtx		-0.01	1.45
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.65_2.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_10000_0.001_0.65_2.mtx		-0.48	1.05
+/home/public/GEN_CLEAN/mat_11000_0.005_0.65_2.mtx		-0.38	1.45
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.65_1.mtx		-0.05	1.5
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.65_2.mtx		-0.39	1.1
+/home/public/GEN_CLEAN/mat_12000_0.001_0.65_1.mtx		-0.03	1.35
+/home/public/GEN_CLEAN/mat_12000_0.001_0.65_2.mtx		-0.25	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.65_2.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.65_2.mtx		-0.23	1.5
+/home/public/GEN_CLEAN/mat_13000_0.001_0.65_1.mtx		-0.19	1.3
+/home/public/GEN_CLEAN/mat_13000_0.001_0.65_2.mtx		-0.25	1.1
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.65_1.mtx		-0.01	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.65_2.mtx		-0.49	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.65_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_14000_0.001_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_14000_0.0005_0.65_1.mtx		0	1.5
+/home/public/GEN_CLEAN/mat_15000_0.005_0.65_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.001_0.65_2.mtx		-0.22	1.05
+/home/public/GEN_CLEAN/mat_16000_0.005_0.65_2.mtx		-0.36	1.5
+/home/public/GEN_CLEAN/mat_16000_0.0005_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.65_1.mtx		-0.23	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.65_2.mtx		-0.21	1.2
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.65_1.mtx		-0.04	1.05
+/home/public/GEN_CLEAN/mat_17000_0.0005_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.65_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.65_2.mtx		-0.28	1.05
+/home/public/GEN_CLEAN/mat_19000_0.001_0.65_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_19000_0.0005_0.65_2.mtx		-0.2	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.65_1.mtx		-0.17	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.65_2.mtx		0	1.35
+/home/public/GEN_CLEAN/mat_20000_0.001_0.65_1.mtx		0	1.15
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.65_2.mtx		-0.41	1.05
+/home/public/GEN_CLEAN/mat_5000_0.005_0.75_1.mtx		-0.12	1.15
+/home/public/GEN_CLEAN/mat_5000_0.001_0.75_1.mtx		0	1.25
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.75_1.mtx		-0.02	1.1
+/home/public/GEN_CLEAN/mat_5000_0.0005_0.75_2.mtx		0	1.45
+/home/public/GEN_CLEAN/mat_6000_0.001_0.75_1.mtx		0	1.3
+/home/public/GEN_CLEAN/mat_6000_0.0005_0.75_2.mtx		0.03	1.35
+/home/public/GEN_CLEAN/mat_7000_0.001_0.75_1.mtx		0	1.2
+/home/public/GEN_CLEAN/mat_8000_0.005_0.75_2.mtx		-0.51	1.5
+/home/public/GEN_CLEAN/mat_8000_0.001_0.75_2.mtx		-0.51	1.05
+/home/public/GEN_CLEAN/mat_8000_0.0005_0.75_1.mtx		0	1.4
+/home/public/GEN_CLEAN/mat_9000_0.005_0.75_2.mtx		-0.23	1.15
+/home/public/GEN_CLEAN/mat_9000_0.001_0.75_1.mtx		0.04	1.3
+/home/public/GEN_CLEAN/mat_9000_0.001_0.75_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_9000_0.0005_0.75_1.mtx		-0.01	1.05
+/home/public/GEN_CLEAN/mat_10000_0.005_0.75_1.mtx		-0.48	1.05
+/home/public/GEN_CLEAN/mat_10000_0.001_0.75_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_11000_0.0005_0.75_2.mtx		-0.55	1.1
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.75_1.mtx		-0.03	1.05
+/home/public/GEN_CLEAN/mat_12000_0.0005_0.75_2.mtx		-0.62	1.05
+/home/public/GEN_CLEAN/mat_13000_0.005_0.75_1.mtx		-0.31	1.05
+/home/public/GEN_CLEAN/mat_13000_0.001_0.75_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_13000_0.0005_0.75_1.mtx		0.01	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.75_1.mtx		-0.55	1.05
+/home/public/GEN_CLEAN/mat_14000_0.005_0.75_2.mtx		0.14	1.5
+/home/public/GEN_CLEAN/mat_15000_0.005_0.75_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_15000_0.0005_0.75_1.mtx		0.01	1.3
+/home/public/GEN_CLEAN/mat_16000_0.005_0.75_2.mtx		-0.26	1.05
+/home/public/GEN_CLEAN/mat_16000_0.001_0.75_1.mtx		0.19	1.1
+/home/public/GEN_CLEAN/mat_16000_0.001_0.75_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_17000_0.005_0.75_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_18000_0.005_0.75_1.mtx		0	1.1
+/home/public/GEN_CLEAN/mat_18000_0.001_0.75_1.mtx		0.35	1.15
+/home/public/GEN_CLEAN/mat_18000_0.001_0.75_2.mtx		-0.53	1.05
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.75_1.mtx		0.05	1.1
+/home/public/GEN_CLEAN/mat_18000_0.0005_0.75_2.mtx		-0.45	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.75_1.mtx		-0.18	1.05
+/home/public/GEN_CLEAN/mat_19000_0.005_0.75_2.mtx		-0.11	1.15
+/home/public/GEN_CLEAN/mat_19000_0.001_0.75_2.mtx		-0.17	1.05
+/home/public/GEN_CLEAN/mat_20000_0.005_0.75_1.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.001_0.75_2.mtx		0	1.05
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.75_1.mtx		0.05	1.25
+/home/public/GEN_CLEAN/mat_20000_0.0005_0.75_2.mtx		0	1.05

@@ -73,8 +73,8 @@ int main (int argc, char* argv[])
     // double nzrelax = atof(argv[2]);
     double gamma = argc >= 3 ? atof(argv[2]) : RELAXED_GAMMA;    // 默认1.0
     double relax_cdensity = argc >= 4 ? atof(argv[3]) : RELAXED_CDENSITY;// 默认1.25
-
-    printf("%s\n", fmatrix);
+    printf ("\n============== Begin ================\n");
+    printf("Data name : %s\n", fmatrix);
     FILE *fp;
     fp = fopen(fmatrix,"r");
     A = SparseCore_read_sparse (fp, &c) ;	            /* read in a matrix */
@@ -148,7 +148,8 @@ int main (int argc, char* argv[])
     //------------solve------------
     double res = 0.;
     res = check_error(A, L, &c);
-    printf ("res = %8.1e \n ", res) ;
+    printf ("res = %8.1e \n\n ", res) ;
+    printf ("============== END ================\n");
     fprintf (fresult, "%8.1e\n", res) ;
 
     free(EtreeInfo);

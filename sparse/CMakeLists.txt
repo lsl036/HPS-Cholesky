@@ -4,7 +4,9 @@ set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=c99 -g -fPIC -O2 -fopenmp -D_GNU_SOURCE
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -lpthread -lnuma -DDLONG -DPTHREAD_POOL")
 
 # when write graph features
+if (WRITE_GRAPH)
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -DWRITE_GRAPH ")
+endif()
 
 include_directories("${CMAKE_SOURCE_DIR}/sparse/include")
 
@@ -49,10 +51,16 @@ target_link_libraries(sparse
   ${CBLAS_LIBRARIES_DEP}
 )
 # Examples executables
+if (WRITE_GRAPH)
 set (EXAMPLES
   test/choltest.c
   test/cholwrite.c
   )
+else()
+set (EXAMPLES
+  test/choltest.c
+  )
+endif()
 
 foreach (_file ${EXAMPLES})
   get_filename_component(_name_we ${_file} NAME_WE)
@@ -60,12 +68,20 @@ foreach (_file ${EXAMPLES})
   target_link_libraries(sparse_${_name_we} sparse  ${LAPACKE_LIBRARIES} ${LAPACK_LIBRARIES} ${BLAS_LIBRARIES} ${TPSM_LIBRARIES} pthread gfortran numa m)
 endforeach()
 
+if (WRITE_GRAPH)
 set (TEST_BASH 
     ./raw
     ./alldata.txt
     ./GCNdata_write.txt
     ./writeG.sh
+    ./testChol.sh
 )
+else()
+set (TEST_BASH 
+    ./alldata.txt
+    ./testChol.sh
+)
+endif()
 
 foreach (_file ${TEST_BASH})
   file(COPY ${_file} DESTINATION ${CMAKE_BINARY_DIR}/test)

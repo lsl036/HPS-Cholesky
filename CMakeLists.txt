@@ -5,8 +5,11 @@ set(CMAKE_C_COMPILER "gcc")
 add_definitions("-O2")
 
 set(USE_CONFIG_FILE ON)
+set(WRITE_GRAPH OFF)    # collect the graph's properties and generate raw dataset
 
 message(STATUS "USE_CONFIG_FILE is ${USE_CONFIG_FILE}")
+message(STATUS "WRITE_GRAPH is ${WRITE_GRAPH}")
+
 if(USE_CONFIG_FILE STREQUAL ON) 
     include(cmake/variables.cmake)
 else()
