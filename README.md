@@ -1,2 +1,28 @@
 # HPS-Cholesky
-The implementation of paper: "HPS Cholesky: Hierarchical Parallelized Supernodal Cholesky with Adaptive Parameter"s
+The source code of paper: "HPS Cholesky: Hierarchical Parallelized Supernodal Cholesky with Adaptive Parameters"
+
+## Code Environment
+
+1. In the NUMA architecture, the **libnuma** library is required
+2. **OpenBLAS-0.3.9** is recommended. You can obtain it from https://github.com/xianyi/OpenBLAS. **LAPACK** library is also required.
+
+## Setup
+
+- Need thread scheduling framework TPSM we implemented (future provide)
+
+HPS Cholesky can be compiled with minimal dependencies in the usual CMake-way, e.g.:
+
+```
+mkdir build && cd build
+cmake ..
+make
+```
+
+
+
+
+
+
+
+
+
