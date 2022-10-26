@@ -18,6 +18,10 @@ SRCdir = ./src
 LIBdir = ./lib
 INCLUDE = -I$(INCdir)
 
+default: numadetect libtpsm.a
+
+numadetect:
+	sh get_plat.sh > ./include/Numainfo.h
 
 libtpsm.a : main.o buffer.o synchronization.o tcb.o barrier.o threads.o distribution.o base.o auxiliary.o
 	ar -rc $(LIBdir)/$@ $^
@@ -84,4 +88,4 @@ xdtst: test.o  $(LIBdir)/libtpsm.a
 
 .PHONY : clean
 clean :
-	rm *.o $(LIBdir)/libtpsm.a
+	-rm -f *.o $(LIBdir)/libtpsm.a xdtst

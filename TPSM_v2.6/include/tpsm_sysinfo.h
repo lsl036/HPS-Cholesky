@@ -15,10 +15,13 @@
  *****************************************************************************/
 
 //-------CPU------->
-#define TPSM_CPUSOCKET 		(2) 		//2个cpu_socket (2块cpu)
-#define TPSM_NUMANODES 		(4) 		//4个numa结点
-#define TPSM_SYSCORES 		(128)  		//128核
-
+#ifdef KP920_INFO
+    #define TPSM_CPUSOCKET 		(2) 		//2个cpu_socket (2块cpu)
+    #define TPSM_NUMANODES 		(4) 		//4个numa结点
+    #define TPSM_SYSCORES 		(128)  		//128核
+#else
+    #include "Numainfo.h"
+#endif
 //-------Cache------->
 #define TPSM_L1DOUBLE 		(8192) 		//L1cache可容纳双精度浮点数的个数为：8192(个)
 #define TPSM_L1FLOAT 		(16384) 	//L1cache可容纳单精度浮点数的个数为：16384(个)
