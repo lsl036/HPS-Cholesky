@@ -277,20 +277,18 @@ int private_findIdleWorkerOnNode(int const numa_node_rank)
 	int active_rank;
 	int const workers_nbr = workers_nbr_on_node[numa_node_rank];
 	int * ptr = workers_rank_on_node[numa_node_rank];
-	TPSM_TCB_t * tcb_ptr;
 	for(int i=0; i<workers_nbr; ++i)
 	{
 		active_rank = ptr[i];
-		tcb_ptr = tcbs[active_rank];
 		//printf("%d在private_findStandbyWorkerOnNode[%d]中找active_rank=%d---i=%d\n",TPSM_get_myrank(),numa_node_rank,active_rank,i);
-		pthread_mutex_lock(&tcb_ptr->lock);
-		if(tcb_ptr->state == TPSM_WORKER_LEISURE)
+		pthread_mutex_lock(&tcbs[active_rank]->lock);
+		if(tcbs[active_rank]->state == TPSM_WORKER_LEISURE)
 		{	
-			tcb_ptr->state = TPSM_WORKER_RESERVED; //状态TPSM_WORKER_RESERVED = 1表示已经预定
-			pthread_mutex_unlock(&tcb_ptr->lock);
+			tcbs[active_rank]->state = TPSM_WORKER_RESERVED; //状态TPSM_WORKER_RESERVED = 1表示已经预定
+			pthread_mutex_unlock(&tcbs[active_rank]->lock);
 			return active_rank;
 		}
-		pthread_mutex_unlock(&tcb_ptr->lock);
+		pthread_mutex_unlock(&tcbs[active_rank]->lock);
 	}
 	return -1;
 }

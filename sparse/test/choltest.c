@@ -96,7 +96,7 @@ int main (int argc, char* argv[])
     }
 
     // 开线程池
-    TPSM_init(500, 2000, 1000, TPSM_NODE_AFFINITY );
+    TPSM_init(128, 1000, 1000, TPSM_NODE_AFFINITY );
     c.final_asis = 1;                   // 0 1
     c.supernodal = SPARSE_SUPERNODAL;         //  SPARSE_AUTO SPARSE_SUPERNODAL SPARSE_SIMPLICIAL
     Relaxfactor_setting (A->nrow, SparseCore_nnz (A, &c), RELAX_FOR_CHOL, &c);
