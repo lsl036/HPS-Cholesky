@@ -4,7 +4,8 @@ The source code of paper: "HPS Cholesky: Hierarchical Parallelized Supernodal Ch
 ## Code Environment
 
 1. In the NUMA architecture, the **libnuma** library is required
-2. **OpenBLAS-0.3.9** is recommended. You can obtain it from https://github.com/xianyi/OpenBLAS. **LAPACK** library is also required.
+2. **OpenBLAS-0.3.9** is recommended. You can obtain it from https://github.com/xianyi/OpenBLAS. 
+3. **LAPACKE** library is also required.
 
 ## Setup
 

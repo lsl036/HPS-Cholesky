@@ -26,11 +26,4 @@ set ( LAPACK_INCLUDE_DIR
     "/usr/local/include/"
 )
 
-# set ( METIS_LIBRARIES
-#     "/usr/lib/libmetis.a"
-# )
-# set ( METIS_INCLUDE_DIR
-#     "/usr/include/"
-# )
-
 include_directories(${BLAS_INCLUDE_DIR} ${TPSM_INCLUDE_DIR} ${LAPACKE_INCLUDE_DIR} ${LAPACK_INCLUDE_DIR})
