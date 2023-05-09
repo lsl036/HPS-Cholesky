@@ -10,9 +10,18 @@ The source code of paper: "HPS Cholesky: Hierarchical Parallelized Supernodal Ch
 
 ## Setup
 
-- Need thread scheduling framework TPSM we implemented (future provide)
+- Need thread scheduling framework TPSM we implemented 
 
-HPS Cholesky can be compiled with minimal dependencies in the usual CMake-way, e.g.:
+  ```
+  cd TPSM_v2.6
+  make
+  cd ..
+  ```
+
+  
+
+- HPS Cholesky can be compiled with minimal dependencies in the usual CMake-way, e.g.:
+
 
 ```
 mkdir build && cd build

@@ -1138,7 +1138,7 @@ void Relaxfactor_setting (size_t n, size_t nnz, int for_whom, sparse_common *Com
     switch (for_whom)
     {
     case RELAX_FOR_CHOL :
-        Common->nrelax [0] = 10 ;
+        Common->nrelax [0] = 4 ;
         Common->nrelax [1] = 32 ;
         Common->nrelax [2] = 64 ;
         Common->zrelax [0] = 0.85 ;  

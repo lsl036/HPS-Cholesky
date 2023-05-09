@@ -1,4 +1,3 @@
-/* 并行计算平台-Cholesky分解组件 */
 
 #include <sys/time.h>
 #include "Sparse.h"
@@ -60,12 +59,15 @@ int main (int argc, char* argv[])
     struct timeval tv;
     double one [2] = {1,0}, m1 [2] = {-1,0} ;
     double *Bx ;
-    double switch_value;
+    
     sparse_csc *A , *L_sparse = NULL ;
     dense_array *x, *b, *r;
     sparse_factor *L ;
     sparse_common c ;
+    #ifdef WRITE_GRAPH
+    double switch_value;
     etree_info *EtreeInfo = (etree_info*) malloc(sizeof(etree_info));
+    #endif
     SparseCore_start (&c) ;			            /* start HNUCHOL */
 
     char *fmatrix = argv[1];
@@ -96,23 +98,25 @@ int main (int argc, char* argv[])
     }
 
     // 开线程池
-    TPSM_init(128, 1000, 1000, TPSM_NODE_AFFINITY );
+    TPSM_init(TPSM_SYSCORES, 2000, 1000, TPSM_NODE_AFFINITY );
     c.final_asis = 1;                   // 0 1
-    c.supernodal = SPARSE_SUPERNODAL;         //  SPARSE_AUTO SPARSE_SUPERNODAL SPARSE_SIMPLICIAL
+    c.supernodal = SPARSE_AUTO;         //  SPARSE_AUTO SPARSE_SUPERNODAL SPARSE_SIMPLICIAL
     Relaxfactor_setting (A->nrow, SparseCore_nnz (A, &c), RELAX_FOR_CHOL, &c);
-    // if(nzrelax!=0.0){
-    //     c.nzrelax = nzrelax;
-    // }
-    // c.nzrelax = nzrelax;
+
     c.gamma = gamma;
     c.relax_cdensity = relax_cdensity;
     //------------analyze------------
     gettimeofday(&tv, NULL);
     timeStart = tv.tv_sec + tv.tv_usec / 1000000.0;
 
-    L = SparseChol_analyze_p2 (TRUE, A, NULL, NULL, 0, &c, EtreeInfo); /* analyze */
+    L = SparseChol_analyze (A, &c) ;           /* analyze */
 
     gettimeofday(&tv, NULL);
+    #ifndef MERGE_DEFAULT
+    printf(" GAMMA=%f, RELAXED=%f\n", c.gamma, c.relax_cdensity);
+    #endif
+
+    #ifdef WRITE_GRAPH
     switch_value = c.fl/c.lnz;
     printf("switch_value = %f\n GAMMA=%f, RELAXED=%f\n", switch_value, c.gamma, c.relax_cdensity);
     fprintf(fresult, "%lg\t", c.fl);
@@ -122,11 +126,10 @@ int main (int argc, char* argv[])
     // fprintf(fresult, "%f\t", EtreeInfo->avgcols);
     // fprintf(fresult, "%d\t", EtreeInfo->max_depth);
     // fprintf(fresult, "%d\t", EtreeInfo->leafnum);
-
+    #endif
     timeEnd = tv.tv_sec + tv.tv_usec / 1000000.0;
     double analyze_time = timeEnd - timeStart;
     printf("\n       analyze run time: %f\n", analyze_time);
-    // fprintf(fresult, "%lf\t", analyze_time);
     //------------factorize------------
     gettimeofday(&tv, NULL);
     timeStart = tv.tv_sec + tv.tv_usec / 1000000.0;
@@ -137,22 +140,22 @@ int main (int argc, char* argv[])
     timeEnd = tv.tv_sec + tv.tv_usec / 1000000.0;
     double factorize_time = timeEnd - timeStart;
     printf("     factorize run time: %f\n", factorize_time);
-    printf("SparseCholSuper run time: %f\n\n", analyze_time + factorize_time);
-    // printf("SparseCholAuto run time: %f\n\n", analyze_time + factorize_time);
-    // fprintf(fresult, "%lf\t", factorize_time);
-    // fprintf(fresult, "%.2f\t", c.nzrelax);
+    printf("    SparseChol run time: %f\n\n", analyze_time + factorize_time);
     fprintf( fresult, "%.4f\t%.4f\t", c.gamma, c.relax_cdensity);
-    fprintf(fresult, "%lf\t%lf\t%lf\t", analyze_time, factorize_time, analyze_time + factorize_time);
+    fprintf(fresult, "%lf\t", analyze_time);
+    fprintf(fresult, "%lf\t", factorize_time);
+    fprintf(fresult, "%lf\t", analyze_time + factorize_time);
     // 等待全部完成,销毁线程池
     TPSM_destroy(TPSM_SHUTDOWN_GENTLY);
     //------------solve------------
     double res = 0.;
     res = check_error(A, L, &c);
-    printf ("res = %8.1e \n\n ", res) ;
+    printf ("res = %8.1e \n ", res) ;
+    fprintf (fresult, "%8.1e\n ", res) ;
     printf ("============== END ================\n");
-    fprintf (fresult, "%8.1e\n", res) ;
-
+    #ifdef WRITE_GRAPH
     free(EtreeInfo);
+    #endif
     SparseCore_free_factor (&L, &c) ;		    /* free matrices */
     SparseCore_free_sparse (&A, &c) ;
     SparseCore_free_sparse (&L_sparse, &c) ;

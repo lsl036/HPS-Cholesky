@@ -95,8 +95,10 @@ int SparseChol_super_symbolic2
     sparse_csc *F,	/* F = A' or A(:,f)' */
     Int *Parent,	/* 消去树 */
     sparse_factor *L,	/* 简易的符号分解因子作为输入，超节点符号分解因子作为输出 */
-    sparse_common *Common,
-    etree_info *EtreeInfo
+    sparse_common *Common
+    #ifdef WRITE_GRAPH
+    , etree_info *EtreeInfo
+    #endif
 )
 {
     double zrelax0, zrelax1, zrelax2, xxsize, nzrelax, gamma, relaxed_density;
@@ -207,7 +209,6 @@ int SparseChol_super_symbolic2
     zrelax1 = IS_NAN (zrelax1) ? 0 : zrelax1 ;
     zrelax2 = IS_NAN (zrelax2) ? 0 : zrelax2 ;
 
-    // printf("Common->nzrelax = %.2f\n", Common->nzrelax);
     /* ---------------------------------------------------------------------- */
     /* 获取工作空间 */
     /* ---------------------------------------------------------------------- */
@@ -235,7 +236,7 @@ int SparseChol_super_symbolic2
         parent = Parent [j] ;
         if (parent != EMPTY)
         {
-            Wi [parent]++ ;     
+            Wi [parent]++ ;     // Wi[j] 表示j节点的孩子数
         }
     }
 
@@ -263,9 +264,7 @@ int SparseChol_super_symbolic2
     /* 找出基本节点到超节点的映射 */
     /* ---------------------------------------------------------------------- */
     SuperMap = Wj ;
-    // #ifdef WRITE_GRAPH
-    // int *ori = (int *)malloc(n * sizeof(int));
-    // #endif
+
     for (s = 0 ; s < nfsuper ; s++)
     {
 	for (k = Super [s] ; k < Super [s+1] ; k++)
@@ -273,7 +272,7 @@ int SparseChol_super_symbolic2
 	    SuperMap [k] = s ;
 	}
     }
-
+    #ifdef WRITE_GRAPH
     chol_supernode *Sfnode;
     int max_depth = 0, leafnum = 0, singlenum = 0;
     double avgcols = 0.0;
@@ -287,7 +286,7 @@ int SparseChol_super_symbolic2
         Sfnode[s].Sdepth = 0;
         Sfnode[s].Schild = NULL;
     }
-
+    #endif
     /* ---------------------------------------------------------------------- */
     /* 重构基本超节点消去树 , 构建了超节点间的父子关系 */
     /* ---------------------------------------------------------------------- */
@@ -296,6 +295,7 @@ int SparseChol_super_symbolic2
         j = Super [s+1] - 1 ;    // j 是当前超节点 Super[s] 的最上层节点
         parent = Parent [j] ;	 // 保存其 parent
         Sparent [s] = (parent == EMPTY) ? EMPTY : SuperMap [parent] ;
+        #ifdef WRITE_GRAPH
         if (Sparent [s] != EMPTY){
             ++(Sfnode[Sparent [s]].Snchild);    // 记录超节点的孩子数目
         }
@@ -304,10 +304,11 @@ int SparseChol_super_symbolic2
             Sroot[Sroot_num] = s;
             Sroot_num++;
         }
+        #endif
     }
     Zeros = Wj ;   
-    int i;
     // 初始化每个超节点的孩子节点
+    #ifdef WRITE_GRAPH
     for (s = 0 ; s < nfsuper ; ++s)
     {
         int child_num = Sfnode[s].Snchild;
@@ -368,7 +369,6 @@ int SparseChol_super_symbolic2
         }
         #endif
     }
-    #ifdef WRITE_GRAPH
     avgcols /= (nfsuper-singlenum);  // 超节点的平均列数
     // 确定每个超节点的孩子节点（确定所有的叶子节点吧）
     
@@ -386,18 +386,15 @@ int SparseChol_super_symbolic2
     EtreeInfo->leafnum=leafnum;
     // #ifdef WRITE_GRAPH
     EtreeInfo->node_depth = deep;
-    #endif
     
     free(Sfnode);
-
+    #endif
     /* ---------------------------------------------------------------------- */
     /* 松弛合并超节点，将少数零元作为非零元处理 */
     /* ---------------------------------------------------------------------- */
     // 初始化
     #ifdef WRITE_GRAPH
     int *totLsize = (int *)malloc( nfsuper *sizeof(int));
-    #endif
-    #ifdef WRITE_GRAPH
     int *relaxed = (int *)malloc(n * sizeof(int));
     int *max_row = (int *)malloc(n * sizeof(int)); // 超节点的最大行数
     int *Lnscol  = (int *)malloc(n * sizeof(int)); // 超节点的列数
@@ -438,14 +435,13 @@ int SparseChol_super_symbolic2
     for (s = nfsuper-2 ; s >= 0 ; s--) // 从上到下合并，使每次找的时候可以利用上层合并过的超节点
     {
         double lnz1 ;
-        double xtotsize;
         ss = Sparent [s] ;
         if (ss == EMPTY)
         {
             continue ;
         }
 
-	    for (ss = Sparent [s] ; Merged [ss] != EMPTY ; ss = Merged [ss]) ; // 
+	    for (ss = Sparent [s] ; Merged [ss] != EMPTY ; ss = Merged [ss]) ;
 	    sparent = ss ;
 
 	    /* ss是s的当前父节点 */
@@ -464,39 +460,35 @@ int SparseChol_super_symbolic2
         nscol0 = Nscol [s] ;	/* # of columns in s */
         nscol1 = Nscol [s+1] ;  /* # of columns in s+1 */
         ns = nscol0 + nscol1 ;  // 两个超节点合并后的总列数
-        double xns = (double) ns ;
 
         totzeros = Zeros [s+1] ;	/* current # of zeros in s+1 */
 
-        double lnz0 = (double) Snz [s] ;	//s 的第一列中的项
         lnz1 = (double) (Snz [s+1]) ;	// s+1的第一列中的项数
 
 	    /* 确定超节点s和s+1是否应该合并 */
+        #if defined(MERGE_DEFAULT) 
         if (ns <= nrelax0)
         {
             merge = TRUE ;
         }
         else 
+        #endif
         {
+            double lnz0 = Snz [s] ;	
         double xnewzeros = nscol0 * (lnz1 + nscol0 - lnz0) ; // 额外的零元
 
         newzeros = nscol0 * (Snz [s+1] + nscol0 - Snz [s]) ;
-
-        // printf("lnz0 %lg lnz1 %lg xnewzeros %lg\n", lnz0, lnz1, xnewzeros) ;
         if (xnewzeros == 0)// 没有新增的非零项
         {
         merge = TRUE ;
-        // #ifdef WRITE_GRAPH
-        // xtotsize = (xns * (xns+1) / 2) + xns * (lnz1 - nscol1) ; 
-        // #endif
         }
         else
         {
         double xtotzeros = ((double) totzeros) + xnewzeros ;
-
+        double xns = (double) ns ;
         
         // 合并后节点的总 size 大小, 作为Size_S ,  只保存了三角形
-        xtotsize  = (xns * (xns+1) / 2) + xns * (lnz1 - nscol1) ; 
+        double xtotsize  = (xns * (xns+1) / 2) + xns * (lnz1 - nscol1) ; 
         
         // 合并后的总零元除以总size，即零元的占比
         double z = xtotzeros / xtotsize ; 
@@ -505,17 +497,22 @@ int SparseChol_super_symbolic2
         double frontsize = xns * (nscol0 + lnz1); 
 
         // 更新大小，这里仅使用 |R| 作为参考
-        double uptsize = nscol0 + lnz1;  // 或者可以用 xtotsize - xtotzeros !!
+        double uptsize = nscol0 + lnz1;
         // double uptsize = xns*( lnz1 - nscol1) / 2;
         // printf ("oldzeros %ld, newzeros %ld, xtotsize %g, z=%g\n",
         //     Zeros [s+1], newzeros, xtotsize, z) ;
 
         totzeros += newzeros ;
 
-        // merge = ((ns <= nrelax1 && z < zrelax0) ||
-        //     (ns <= nrelax2 && z < zrelax1) ||
-        //             (z < zrelax2)) &&
-        //     (xtotsize < Int_max / sizeof (double)) ;
+        /* DEFAULT */
+        #if defined(MERGE_DEFAULT) 
+        merge = ((ns <= nrelax1 && z < zrelax0) ||
+            (ns <= nrelax2 && z < zrelax1) ||
+                    (z < zrelax2)) &&
+            (xtotsize < Int_max / sizeof (double)) ;
+        #elif defined(MERGE_MAXZERO)
+        merge = xnewzeros <128;
+        #else
         
         // merge = ((frontsize + gamma*xtotsize)/uptsize <= relaxed_density) && (xtotsize < Int_max / sizeof (double));  //一号 one
         
@@ -525,11 +522,7 @@ int SparseChol_super_symbolic2
         // merge = ( frontsize*gamma/xtotsize <= relaxed_density) && (xtotsize < Int_max / sizeof (double));
 
         merge = ((frontsize + gamma*(xtotsize - xtotzeros))/xtotsize <= relaxed_density) && (xtotsize < Int_max / sizeof (double));  // 2号 nnz版本
-
-        // 输出一些合成超节点的信息
-        // if (!merge)
-        //     printf("S = %ld : frontsize=%g, |R|=%g, xtotsize=%g\n", s, frontsize, uptsize, xtotsize);
-            // printf("Merge True: Snz_s[%ld]=%ld, nscol0 = %ld; Snz_s+1[%ld]=%ld, nscol1=%ld; front_size=%g, |R| = %g, xtotsize=%g\n", s, Snz[s], nscol0, s+1, Snz[s+1], nscol1, frontsize, uptsize, xtotsize);
+        #endif
         }
         }
 
@@ -563,7 +556,7 @@ int SparseChol_super_symbolic2
     Super [nsuper] = n ; // 成为了松弛超节点的索引
 
     /* ---------------------------------------------------------------------- */
-    /* 找出松弛节点到基础节点的映射 */
+    /* 找出松弛节点到超节点的映射 */
     /* ---------------------------------------------------------------------- */
     /* SuperMap [k] = s 如果列k被包含在超节点s中 */
     // #ifdef WRITE_GRAPH
@@ -753,6 +746,7 @@ int SparseChol_super_symbolic2
     /* ---------------------------------------------------------------------- */
     /* 确定L->s和L->x的大小 */
     /* ---------------------------------------------------------------------- */
+
     ssize = 0 ;
     xsize = 0 ;
     xxsize = 0 ;
@@ -768,7 +762,7 @@ int SparseChol_super_symbolic2
             xsize += nscol * nsrow ;
             xxsize += ((double) nscol) * ((double) nsrow) ;
         }
-        if (ssize < 0 ||(find_xsize && xxsize > Int_max)) // 数据越界
+	if (ssize < 0 ||(find_xsize && xxsize > Int_max))
         {
             ERROR (SPARSE_TOO_LARGE, "problem too large") ;
             FREE_WORKSPACE ;
@@ -842,7 +836,7 @@ int SparseChol_super_symbolic2
     /* ---------------------------------------------------------------------- */
     /* 构造松弛超节点模式的符号分析 (L->s) */
     /* ---------------------------------------------------------------------- */
-    // 0417. 12:00 am
+
     Lpi2 = Wi ;	   
     for (s = 0 ; s < nsuper ; s++)
     {
@@ -892,7 +886,7 @@ int SparseChol_super_symbolic2
     }
 
     /* ---------------------------------------------------------------------- */
-    /* 确定最大的更新矩阵 (L->maxcsize) 看一下原Suitesparse代码*/
+    /* 确定最大的更新矩阵 (L->maxcsize) */
     /* ---------------------------------------------------------------------- */
 
     /* 在分配和定义L->s之前可以确定maxcsize，这意味着符号和数值分解的所有内存需求
@@ -985,11 +979,17 @@ int SparseChol_super_symbolic
     sparse_csc *F,	
     Int *Parent,	
     sparse_factor *L,	
-    sparse_common *Common,
-    etree_info *EtreeInfo
+    sparse_common *Common
+    #ifdef WRITE_GRAPH
+    ,etree_info *EtreeInfo
+    #endif
 )
 {
     return (SparseChol_super_symbolic2 (SPARSE_ANALYZE_FOR_CHOLESKY,
-        A, F, Parent, L, Common, EtreeInfo)) ;
+        A, F, Parent, L, Common
+        #ifdef WRITE_GRAPH
+        , EtreeInfo
+        #endif
+        )) ;
 }
 

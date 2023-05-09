@@ -1,7 +1,11 @@
 
 set(NUMA_FLAGS "-DNUMA_ALLOC")
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=c99 -g -fPIC -O2 -fopenmp -D_GNU_SOURCE")
-set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -lpthread -lnuma -DDLONG -DPTHREAD_POOL")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -lpthread -lnuma -DDLONG")
+
+if (MERGE_DEFAULT)
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -DMERGE_DEFAULT ")
+endif()
 
 # when write graph features
 if (WRITE_GRAPH)
@@ -66,6 +70,7 @@ foreach (_file ${EXAMPLES})
   get_filename_component(_name_we ${_file} NAME_WE)
   add_executable(sparse_${_name_we} ${_file})
   target_link_libraries(sparse_${_name_we} sparse  ${LAPACKE_LIBRARIES} ${LAPACK_LIBRARIES} ${BLAS_LIBRARIES} ${TPSM_LIBRARIES} pthread gfortran numa m)
+  # target_link_libraries(sparse_${_name_we} sparse  ${LAPACK_LIBRARIES} ${BLAS_LIBRARIES} ${TPSM_LIBRARIES} pthread gfortran numa m)
 endforeach()
 
 if (WRITE_GRAPH)

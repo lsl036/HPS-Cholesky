@@ -36,8 +36,6 @@ static size_t TEMPLATE (SparseCore_triplet_to_sparse)
     Rnz = R->nz ;
     Rx = R->x ;
     Rz = R->z ;
-	
-	R->diag_nz = 0;
 
     Ti = T->i ;
     Tj = T->j ;
@@ -47,7 +45,7 @@ static size_t TEMPLATE (SparseCore_triplet_to_sparse)
     nrow = T->nrow ;
     ncol = T->ncol ;
     stype = SIGN (T->stype) ;
-	// R->nnz = nz;
+
 	/*
 	 * 按行结构存储
 	 */
@@ -70,8 +68,6 @@ static size_t TEMPLATE (SparseCore_triplet_to_sparse)
 		p = Wj [j]++ ;
 		Ri [p] = i ;
 	    }
-		if (i == j)
-			R->diag_nz ++;
 	    ASSIGN (Rx, Rz, p, Tx, Tz, k) ;
 	}
     }
@@ -93,8 +89,6 @@ static size_t TEMPLATE (SparseCore_triplet_to_sparse)
 		p = Wj [j]++ ;
 		Ri [p] = i ;
 	    }
-		if (i == j)
-			R->diag_nz ++;
 	    ASSIGN (Rx, Rz, p, Tx, Tz, k) ;
 	}
     }

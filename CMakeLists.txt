@@ -4,9 +4,11 @@ set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_COMPILER "gcc")
 add_definitions("-O2")
 
+set(MERGE_DEFAULT ON)
 set(USE_CONFIG_FILE OFF)
 set(WRITE_GRAPH OFF)    # collect the graph's properties and generate raw dataset
 
+message(STATUS "MERGE_DEFAULT is ${MERGE_DEFAULT}")
 message(STATUS "USE_CONFIG_FILE is ${USE_CONFIG_FILE}")
 message(STATUS "WRITE_GRAPH is ${WRITE_GRAPH}")
 

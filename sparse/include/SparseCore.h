@@ -568,7 +568,6 @@ typedef struct sparse_csc_struct
     size_t ncol ;
     size_t nzmax ;	/* 矩阵中元素的最大数目 */
 
-    size_t diag_nz;
     /* 指向 int 或 Sparse_long 的指针 */
     void *p ;		/* p [0..ncol], 列指针 */
     void *i ;		/* i [0..nzmax-1], 行索引 */
@@ -781,6 +780,7 @@ typedef struct chol_supernode_struct
     int *Schild;
 } chol_supernode ;
 
+#ifdef WRITE_GRAPH
 // 超节点结构体，保存当前在消去树中的深度和孩子节点在后续遍历中的位置
 typedef struct etree_info_struct
 {
@@ -803,7 +803,7 @@ typedef struct etree_info_struct
     int *Lsize      ;
     // double *col_avgval;
 } etree_info ;
-
+#endif
 /* ========================================================================== */
 /* === Core/sparse_factor ================================================== */
 /* ========================================================================== */

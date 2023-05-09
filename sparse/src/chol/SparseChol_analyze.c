@@ -238,7 +238,11 @@ sparse_factor *SparseChol_analyze
     sparse_common *Common
 )
 {
-    return (SparseChol_analyze_p2 (TRUE, A, NULL, NULL, 0, Common, NULL)) ;
+    return (SparseChol_analyze_p2 (TRUE, A, NULL, NULL, 0, Common
+    #ifdef WRITE_GRAPH
+    , NULL
+    #endif
+    )) ;
 }
 
 /**
@@ -255,8 +259,10 @@ sparse_factor *SparseChol_analyze_p2
     Int *fset,		    /* 0:(A->ncol)-1的子集 */
     size_t fsize,	    /* fset的大小 */
     /* --------------- */
-    sparse_common *Common,
-    etree_info *EtreeInfo
+    sparse_common *Common
+    #ifdef WRITE_GRAPH
+    ,etree_info *EtreeInfo
+    #endif
 )
 {
     double lnz_best ;
@@ -659,9 +665,11 @@ sparse_factor *SparseChol_analyze_p2
     /* 超结点分析，如果需要或自动选择 */
     /* ---------------------------------------------------------------------- */
     double switch_value = Common->fl / Common->lnz;
+    #ifdef WRITE_GRAPH
     EtreeInfo->switch_value = switch_value;
     printf("flops/lnz = %g\n", switch_value);
-    if (!for_whom && switch_value >= 1000) // 单独对QR分解修改 CHUNK参数
+    #endif
+    if (!for_whom && switch_value >= 1000 ) // 单独对QR分解修改 CHUNK参数
     {
         Common->QR_CHUNK_FLAG = 1;
     }
@@ -678,7 +686,11 @@ sparse_factor *SparseChol_analyze_p2
             &A1, &A2, &S, &F, Common) ;
         
         /* workspace: Flag (nrow), Head (nrow), Iwork (5*nrow) */
-        SparseChol_super_symbolic2 (for_whom, S, F, Lparent, L, Common, EtreeInfo) ;
+	SparseChol_super_symbolic2 (for_whom, S, F, Lparent, L, Common
+    #ifdef WRITE_GRAPH
+        ,EtreeInfo
+    #endif
+    ) ;
         SparseCore_free_sparse (&A1, Common) ;
         SparseCore_free_sparse (&A2, Common) ;
         

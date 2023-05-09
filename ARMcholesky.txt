@@ -1,0 +1,6 @@
+/home/lsl/DATA_TEST/vanbody/vanbody.mtx	1.0000	1.2500	0.101467	0.415980	0.517447	 7.1e-06
+  7.1e-06
+/home/lsl/DATA_TEST/vanbody/vanbody.mtx	1.0000	1.2500	0.101083	0.413627	0.514710	 7.1e-06
+  7.1e-06
+/home/lsl/DATA_TEST/vanbody/vanbody.mtx	1.0000	1.2500	0.110276	0.629094	0.739370	 7.1e-06
+  7.1e-06

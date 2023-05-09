@@ -16,15 +16,17 @@
 #define SPARSE_P    7		/* 置换 x=Px */
 #define SPARSE_Pt   8		/* 置换 x=P'x */
 
-
-
 sparse_factor *SparseChol_analyze (sparse_csc *, sparse_common *) ;
 
 sparse_factor *SparseChol_analyze_p (sparse_csc *, Sparse_long *,
     Sparse_long *, size_t, sparse_common *) ;
 
 sparse_factor *SparseChol_analyze_p2 (int, sparse_csc *, Sparse_long *,
-    Sparse_long *, size_t, sparse_common *, etree_info *) ;
+    Sparse_long *, size_t, sparse_common *
+    #ifdef WRITE_GRAPH
+    , etree_info *
+    #endif
+    ) ;
 
 int SparseChol_factorize (sparse_csc *, sparse_factor *, sparse_common *) ;
 
@@ -88,10 +90,18 @@ int SparseChol_solve2( int sys, sparse_factor *L, dense_array *B,
     dense_array **Y_Handle, dense_array **E_Handle, sparse_common *Common);
 
 int SparseChol_super_symbolic (sparse_csc *, sparse_csc *,
-    Sparse_long *, sparse_factor *, sparse_common *, etree_info *) ;
+    Sparse_long *, sparse_factor *, sparse_common *
+    #ifdef WRITE_GRAPH
+    , etree_info *
+    #endif
+    ) ;
 
 int SparseChol_super_symbolic2 (int, sparse_csc *, sparse_csc *,
-    Sparse_long *, sparse_factor *, sparse_common *, etree_info *) ;
+    Sparse_long *, sparse_factor *, sparse_common *
+    #ifdef WRITE_GRAPH
+    , etree_info *
+    #endif
+    ) ;
 
 int SparseChol_super_numeric (sparse_csc *, sparse_csc *, double *,
     sparse_factor *, sparse_common *) ;

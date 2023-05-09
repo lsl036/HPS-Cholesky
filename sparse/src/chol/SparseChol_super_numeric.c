@@ -718,10 +718,6 @@ static int TEMPLATE (SparseChol_super_numeric)
         for(j = 0; j < snode_num; ++j)
         {
         #ifdef PTHREAD_POOL
-            // if(TPSM_addTask( parallel_numeric_factor, &(snode_args[j]), 1)==1)
-            // {
-            //     printf("TASK_BUFFER_SIZE is too small\n");
-            // } 
             if( TPSM_addTask( parallel_numeric_factor, &(snode_args[j]), 1)==1)
             {
                 printf("TASK_BUFFER_SIZE is too small\n");
@@ -729,6 +725,7 @@ static int TEMPLATE (SparseChol_super_numeric)
         #else
             parallel_numeric_factor(&snode_args[j]);
         #endif       
+            
         }
         #ifdef PTHREAD_POOL
         TPSM_barrier_tag(1);
