@@ -28,7 +28,7 @@ mkdir build && cd build
 cmake ..
 make
 ```
-Then the test routine is in `build/test/`.
+Then the test routine is in `build/test/`
 
 
 
